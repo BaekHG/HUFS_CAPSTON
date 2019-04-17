@@ -1,3 +1,4 @@
+
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
@@ -41,16 +42,14 @@ public class Main {
 		//Object result = invocable.invokeFunction("SHA512", "sdfdfsf");
 		
 		// parameter 값으로 form data 전송
-		String sID = "201402783";
+		String sID = "201401483";
 		String rawPW = "";
-		String sha512PW = "8b8b6aa4bf808f01017bc1fb50960a18b3861f6ae269b138de8ff975c15b4ab607a2c3847301bb74d1b6ac106d15edbb9d7baf57826bbecbb0b5cc9d9c5948c3";
 		// 패스워드 해쉬값 리턴
-		//String sha512PW = invocable.invokeFunction("SHA512", rawPW).toString();
+		String sha512PW = invocable.invokeFunction("SHA512", rawPW).toString();
 		//System.out.println(sha512PW);
 		
-		//String sha512PW = "8b8b6aa4bf808f01017bc1fb50960a18b3861f6ae269b138de8ff975c15b4ab607a2c3847301bb74d1b6ac106d15edbb9d7baf57826bbecbb0b5cc9d9c5948c3";
 		String loginURL = "https://eclass2.hufs.ac.kr:4443/ilos/lo/login.acl?usr_id=" + sID +
-							"&usr_pwd=" + sha512PW;
+							"&usr_pwd=" + "8b8b6aa4bf808f01017bc1fb50960a18b3861f6ae269b138de8ff975c15b4ab607a2c3847301bb74d1b6ac106d15edbb9d7baf57826bbecbb0b5cc9d9c5948c3";
 		
 		// 로그인(POST) - HTTPS
     	Connection.Response response1 = Jsoup.connect(loginURL)
@@ -78,25 +77,24 @@ public class Main {
 			System.out.println("JSESSIONID NOT FOUND!!");
 		}
 		
-		
-		
 		// 이클래스 메인 페이지 GET
 		Document mainPage = getPageDocument("http://eclass2.hufs.ac.kr:8181/ilos/main/main_form.acl");
-//		System.out.println(mainPage.toString());
+		//System.out.println(mainPage.toString());
 		
 		// 수강과목만 파싱
 		Elements e1 = mainPage.select("em[class=sub_open]");
 		List<String> lectureList = new ArrayList<String>(); // 수강과목 이름 리스트
 		List<String> lectureCodeList = new ArrayList<String>(); // 수강과목 코드 과 URL 리스트
-//		System.out.println(e1);
+		
 		for(Element lec : e1) {
 			String lecRawTitle = lec.attr("title");
-			String lecRawCode = lec.attr("onclick");
-//			lectureList.add(lecRawTitle.substring(0, lecRawTitle.length() - 9));
-//			lectureCodeList.add(lecRawCode.substring(lecRawCode.indexOf('\'') + 1, lecRawCode.lastIndexOf('\'')));
-			System.out.println(lecRawCode);
-//			System.out.println(lecRawCode.substring(lecRawCode.indexOf('\'') + 1, lecRawCode.lastIndexOf('\'')));
-//			System.out.println(lecRawTitle.substring(0, lecRawTitle.length() - 9));
+			String lecRawCode = lec.attr("onclick"); 
+//			System.out.println(lecRawTitle);
+//			System.out.println(lecRawCode);
+			lectureList.add(lecRawTitle.substring(0, lecRawTitle.length() - 9));
+			lectureCodeList.add(lecRawCode.substring(lecRawCode.indexOf('\'') + 1, lecRawCode.lastIndexOf('\'')));
+			//System.out.println(lecRawCode.substring(lecRawCode.indexOf('\'') + 1, lecRawCode.lastIndexOf('\'')));
+			//System.out.println(lecRawTitle.substring(0, lecRawTitle.length() - 9));
 		}
 		//System.out.println(lectureList.size());
 		//System.out.println(lectureCodeList.size());
@@ -109,7 +107,7 @@ public class Main {
 	    	// 강의실 공지사항 게시판 페이지  GET
 			Document eclassNoticePage = getPageDocument("http://eclass2.hufs.ac.kr:8181/ilos/st/course/notice_list_form.acl");
 			
-			// 공지사항 조지기
+			// 공지사항 
 			System.out.println("*** [" + lectureList.get(i) + "] 공지사항 최근 게시물 ***");
 			if(!eclassNoticePage.select("table[class=bbslist] tbody tr td[class=left]").isEmpty()) {
 				Elements noticeTitles = eclassNoticePage.select("table[class=bbslist] tbody tr");
@@ -122,8 +120,38 @@ public class Main {
 			}
 			System.out.println();
 		}
+		
+		System.out.println("\n========================================\n");
+		//강의실 최근자료
+		for (int i=0; i< lectureList.size(); i++) {
+			eclassRoomConnect(lectureCodeList.get(i));
+			
+			Document eclassDataPage = getPageDocument("http://eclass2.hufs.ac.kr:8181/ilos/st/course/lecture_material_list_form.acl");
+			
+			//강의자료
+			System.out.println("*** [" + lectureList.get(i) + "] 강의자료 최근 게시물 ***");
+			if(!eclassDataPage.select("div[class=top_div] span").isEmpty()) {
+				Elements dataTitles = eclassDataPage.select("div[class=top_div] span");
+				System.out.println(dataTitles.get(0).text());
+			}
+			else {
+				System.out.println("===> 최근자료가 없습니다..");
+			}
+			System.out.println();
+		}
+		
+		//사이버강의 출석만료 알려주기 (진행 중)
+		for(int i=0; i<lectureList.size(); i++){
+		eclassRoomConnect(lectureCodeList.get(i));
+		Document CheckCyberGang2 = getPageDocument("http://eclass2.hufs.ac.kr:8181/ilos/st/course/submain_form.acl");
+		Elements cyberCheck = CheckCyberGang2.select("dd style[padding: 3px 10px; "
+				+ "overflow: hidden; background-color:  #F39814; color: #fff;] div[style]");
+		
+ 		System.out.println(cyberCheck.toString());
+ 		
+		
+		}
 	}
-	
 	
 	private static Document getPageDocument(String url) {
 		Document sampleDoc = null;
@@ -140,7 +168,7 @@ public class Main {
 					.method(Connection.Method.GET)
 					.get();
 		} catch (IOException e) {
-			e.printStackTrace(); 
+			e.printStackTrace();
 		}
 		return sampleDoc;
 	}
@@ -153,7 +181,7 @@ public class Main {
 	 * 그전에 인증같은 과정이 이루어져야 하는데 이때 "/ilos/st/course/eclass_room2.acl" 링크를 통해 학수코드를 포함한 데이터를 함께 POST
 	 * 성공적으로 인증이 되면 JSON 응답을 통해 확인할 수 있음
 	 * 그 후 다시 "/ilos/st/course/submain_form.acl" 를 GET 하면 해당 강의실 페이지를 불러 올 수 있다.
-	 */
+	 */ 
 	private static void eclassRoomConnect(String lecCode) {
 		// 전송할 폼 데이터
 		Map<String, String> data = new HashMap<String, String>();
@@ -175,6 +203,6 @@ public class Main {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-//    	System.out.println(jsoupStr);
+    	//System.out.println(jsoupStr);
 	}
 }
