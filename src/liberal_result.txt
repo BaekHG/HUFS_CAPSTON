@@ -1,0 +1,571 @@
+========== 신입생세미나(글로벌) ==========
+1 신입생세미나 1 Y11113901 신입생세미나(GBT) (Seminar for Freshmen) 문유진 (Moon, Yoo-Jin) 1 1 수 9 (4403) (Wed 9 (4403)) 14 / 14
+2 신입생세미나 1 Y11113902 신입생세미나(GBT) (Seminar for Freshmen) 김병초 (Kim, Byungcho) 1 1 수 9 (4403) (Wed 9 (4403)) 12 / 12
+3 신입생세미나 1 Y11113903 신입생세미나(GBT) (Seminar for Freshmen) 전종근 (Jun, Jong Kun) 1 1 수 9 (4403) (Wed 9 (4403)) 12 / 12
+4 신입생세미나 1 Y11113904 신입생세미나(GBT) (Seminar for Freshmen) 김문현 (Kym, Moon Hyun) 1 1 수 9 (4403) (Wed 9 (4403)) 13 / 12
+5 신입생세미나 1 Y11113905 신입생세미나(GBT) (Seminar for Freshmen) 이정 (Lee, Jung) 1 1 수 9 (4403) (Wed 9 (4403)) 12 / 12
+6 신입생세미나 1 Y11113906 신입생세미나(GBT) (Seminar for Freshmen) 이근섭 (Lee, Geun Seop) 1 1 수 10 (4403) (Wed 10 (4403)) 14 / 15
+7 신입생세미나 1 Y11113801 신입생세미나(국제금융학) (Seminar for Freshmen) 권태연 (Kwon, Tae Yeon) 1 1 수 10 (4219) (Wed 10 (4219)) 25 / 25
+8 신입생세미나 1 Y11113802 신입생세미나(국제금융학) (Seminar for Freshmen) 백재승 (Baek, Jae Seung) 1 1 수 9 (4219) (Wed 9 (4219)) 9 / 15
+9 신입생세미나 1 Y11113803 신입생세미나(국제금융학) (Seminar for Freshmen) 박기봉 (Park Keebong) 1 1 수 10 (4219) (Wed 10 (4219)) 15 / 15
+10 신입생세미나 1 Y11113A01 신입생세미나(국제스포츠레저) (Seminar for Freshmen) 김남수 (Nam-Su Kim) 1 1 수 9 (1511) (Wed 9 (1511)) 9 / 10
+11 신입생세미나 1 Y11113A02 신입생세미나(국제스포츠레저) (Seminar for Freshmen) 박성희 (PARK, SEONG-HEE) 1 1 수 9 (1511) (Wed 9 (1511)) 10 / 10
+12 신입생세미나 1 Y11113A03 신입생세미나(국제스포츠레저) (Seminar for Freshmen) 이승필 (Lee Seung Pil) 1 1 수 9 (1511) (Wed 9 (1511)) 9 / 10
+13 신입생세미나 1 Y11113A04 신입생세미나(국제스포츠레저) (Seminar for Freshmen) 이예훈 (Lee, Ye Hoon) 1 1 수 9 (1511) (Wed 9 (1511)) 10 / 10
+14 신입생세미나 1 Y11112C01 신입생세미나(그리스.불가리아학) (Seminar for Freshmen) 김혜진 (Kim, Hyejin) 1 1 수 9 (1501) (Wed 9 (1501)) 18 / 25
+15 신입생세미나 1 Y11112C02 신입생세미나(그리스.불가리아학) (Seminar for Freshmen) 채유정 (Yoojung Chae) 1 1 수 9 (1501) (Wed 9 (1501)) 16 / 20
+16 신입생세미나 1 Y11111201 신입생세미나(독일어통번역) (Seminar for Freshmen) 김창준 (Kim Tschang-Zun) 1 1 목 9 (1409) (Thu 9 (1409)) 19 / 23
+17 신입생세미나 1 Y11111202 신입생세미나(독일어통번역) (Seminar for Freshmen) 이재원 (Lee, Jae-Won) 1 1 목 9 (1409) (Thu 9 (1409)) 23 / 23
+18 신입생세미나 1 Y11111203 신입생세미나(독일어통번역) (Seminar for Freshmen) 김백기 (Kim, Paig-Ki) 1 1 목 9 (1409) (Thu 9 (1409)) 24 / 24
+19 신입생세미나 1 Y11112G01 신입생세미나(러시아학) (Seminar for Freshmen) 김수환 (KIM SooHwan) 1 1 월 9 (1313) (Mon 9 (1313)) 25 / 25
+20 신입생세미나 1 Y11112G02 신입생세미나(러시아학) (Seminar for Freshmen) 홍완석 (Hong Wan Suk) 1 1 월 9 (1313) (Mon 9 (1313)) 25 / 25
+21 신입생세미나 1 Y11112201 신입생세미나(루마니아어) (Seminar for Freshmen) 박정오 (PARK JEONG O) 1 1 목 9 (1411) (Thu 9 (1411)) 19 / 19
+22 신입생세미나 1 Y11112202 신입생세미나(루마니아어) (Seminar for Freshmen) 김정환 (Jeong Hwan Kim) 1 1 목 9 (1411) (Thu 9 (1411)) 19 / 19
+23 신입생세미나 1 Y11111901 신입생세미나(말레이.인도네시아어통번역) (Seminar for Freshmen) 전태현 (Chun Tai Hyun) 1 1 월 9 (1509) (Mon 9 (1509)) 20 / 20
+24 신입생세미나 1 Y11111902 신입생세미나(말레이.인도네시아어통번역) (Seminar for Freshmen) 김장겸 (Kim,Jang-Gyem) 1 1 월 9 (1509) (Mon 9 (1509)) 19 / 20
+25 신입생세미나 1 Y11114001 신입생세미나(바이오메디컬공학) (Seminar for Freshmen) 김보형 (Kim, Bohyoung) 1 1 화 9 (5101) (Tue 9 (5101)) 14 / 15
+26 신입생세미나 1 Y11114002 신입생세미나(바이오메디컬공학) (Seminar for Freshmen) 오세홍 (Oh, Se Hong) 1 1 화 9 (5101) (Tue 9 (5101)) 11 / 15
+27 신입생세미나 1 Y11114003 신입생세미나(바이오메디컬공학) (Seminar for Freshmen) 고윤희 (Ko, Younhee) 1 1 화 9 (5101) (Tue 9 (5101)) 13 / 15
+28 신입생세미나 1 Y11112B01 신입생세미나(브라질학) (Seminar for Freshmen) 윤택동 (Yoon, Taek-Dong) 1 1 월 9 (1311) (Mon 9 (1311)) 19 / 30
+29 신입생세미나 1 Y11112B02 신입생세미나(브라질학) (Seminar for Freshmen) 이재훈 (Jaehoon Lee) 1 1 월 9 (1311) (Mon 9 (1311)) 29 / 30
+30 신입생세미나 1 Y11113201 신입생세미나(사학) (Seminar for Freshmen) 김상범 (Kim Sangbum) 1 1 화 10 (4215) (Tue 10 (4215)) 10 / 10
+31 신입생세미나 1 Y11113202 신입생세미나(사학) (Seminar for Freshmen) 노명환 (Noh Meung-hoan) 1 1 화 10 (4215) (Tue 10 (4215)) 10 / 10
+32 신입생세미나 1 Y11113203 신입생세미나(사학) (Seminar for Freshmen) 여호규 (Yeo, HoKyu) 1 1 화 10 (4215) (Tue 10 (4215)) 8 / 10
+33 신입생세미나 1 Y11113204 신입생세미나(사학) (Seminar for Freshmen) 이영학 (Lee, Young-hak) 1 1 화 10 (4215) (Tue 10 (4215)) 7 / 10
+34 신입생세미나 1 Y11113205 신입생세미나(사학) (Seminar for Freshmen) 반병률 (Ban, Byung Yool) 1 1 화 10 (4215) (Tue 10 (4215)) 5 / 10
+35 신입생세미나 1 Y11114E01 신입생세미나(산업경영공학) (Seminar for Freshmen) 김문수 (MOON-SOO KIM) 1 1 목 9 (5403) (Thu 9 (5403)) 7 / 10
+36 신입생세미나 1 Y11114E02 신입생세미나(산업경영공학) (Seminar for Freshmen) 윤재욱 (Yoon, Jae Wook) 1 1 목 9 (5403) (Thu 9 (5403)) 6 / 10
+37 신입생세미나 1 Y11114E03 신입생세미나(산업경영공학) (Seminar for Freshmen) 선지웅 (Ji Ung Sun) 1 1 목 9 (5403) (Thu 9 (5403)) 5 / 10
+38 신입생세미나 1 Y11114E04 신입생세미나(산업경영공학) (Seminar for Freshmen) 이석룡 (Seok-Lyong Lee) 1 1 목 9 (5403) (Thu 9 (5403)) 6 / 10
+39 신입생세미나 1 Y11114E05 신입생세미나(산업경영공학) (Seminar for Freshmen) 이성룡 (Yee, Soung Ryong) 1 1 목 9 (5403) (Thu 9 (5403)) 7 / 10
+40 신입생세미나 1 Y11114E06 신입생세미나(산업경영공학) (Seminar for Freshmen) 이충목 (Chungmok Lee) 1 1 목 9 (5403) (Thu 9 (5403)) 8 / 10
+41 신입생세미나 1 Y11114E07 신입생세미나(산업경영공학) (Seminar for Freshmen) 최경일 (CHOE, KYUNG-IL) 1 1 목 9 (5403) (Thu 9 (5403)) 5 / 10
+42 신입생세미나 1 Y11114E08 신입생세미나(산업경영공학) (Seminar for Freshmen) 최기석 (Choi Ki-Seok) 1 1 목 9 (5403) (Thu 9 (5403)) 6 / 10
+43 신입생세미나 1 Y11114501 신입생세미나(생명공학) (Seminar for Freshmen) 권혁만 (Kwon Hyockman) 1 1 목 9 (3112) (Thu 9 (3112)) 12 / 12
+44 신입생세미나 1 Y11114502 신입생세미나(생명공학) (Seminar for Freshmen) 이현환 (Lee Hyune Hwan) 1 1 목 9 (3112) (Thu 9 (3112)) 12 / 12
+45 신입생세미나 1 Y11114503 신입생세미나(생명공학) (Seminar for Freshmen) 박중찬 (Park Jungchan) 1 1 목 9 (3112) (Thu 9 (3112)) 12 / 12
+46 신입생세미나 1 Y11114504 신입생세미나(생명공학) (Seminar for Freshmen) 장태용 (Jang Tae Yong) 1 1 수 9 (3112) (Wed 9 (3112)) 12 / 12
+47 신입생세미나 1 Y11114505 신입생세미나(생명공학) (Seminar for Freshmen) 송미령 (Song, Mi Ryoung) 1 1 목 9 (3112) (Thu 9 (3112)) 12 / 12
+48 신입생세미나 1 Y11112501 신입생세미나(세르비아.크로아티아어) (Seminar for Freshmen) 김성환 (Kim Seong-Hwan) 1 1 수 9 (1513) (Wed 9 (1513)) 13 / 14
+49 신입생세미나 1 Y11112502 신입생세미나(세르비아.크로아티아어) (Seminar for Freshmen) 김상헌 (Kim, Sang Hun) 1 1 수 9 (1513) (Wed 9 (1513)) 15 / 15
+50 신입생세미나 1 Y11112503 신입생세미나(세르비아.크로아티아어) (Seminar for Freshmen) 권혁재 (Kwon Hyok Jae) 1 1 수 9 (1513) (Wed 9 (1513)) 14 / 14
+51 신입생세미나 1 Y11114101 신입생세미나(수학) (Seminar for Freshmen) 장재덕 (Jang Jaeduck) 1 1 목 9 (3311) (Thu 9 (3311)) 6 / 7
+52 신입생세미나 1 Y11114102 신입생세미나(수학) (Seminar for Freshmen) 최영수 (Youngsoo Choi) 1 1 목 9 (3310) (Thu 9 (3310)) 6 / 7
+53 신입생세미나 1 Y11114103 신입생세미나(수학) (Seminar for Freshmen) 신동화 (Dong Hwa Shin) 1 1 목 9 (3311) (Thu 9 (3311)) 7 / 7
+54 신입생세미나 1 Y11114104 신입생세미나(수학) (Seminar for Freshmen) 정미연 (Jung Miyoun) 1 1 목 9 (3311) (Thu 9 (3311)) 7 / 7
+55 신입생세미나 1 Y11114105 신입생세미나(수학) (Seminar for Freshmen) 곽민석 (Kwak, Minsuk) 1 1 목 9 (3310) (Thu 9 (3310)) 2 / 7
+56 신입생세미나 1 Y11114106 신입생세미나(수학) (Seminar for Freshmen) 최일규 (Choi, Ilkyoo) 1 1 목 9 (3311) (Thu 9 (3311)) 7 / 7
+57 신입생세미나 1 Y11114107 신입생세미나(수학) (Seminar for Freshmen) 정성은 (Jung Sungeun) 1 1 목 9 (3311) (Thu 9 (3311)) 7 / 7
+58 신입생세미나 1 Y11111301 신입생세미나(스페인어통번역) (Seminar for Freshmen) 전용갑 (Jeon, Yong Gab) 1 1 목 9 (1503) (Thu 9 (1503)) 16 / 16
+59 신입생세미나 1 Y11111302 신입생세미나(스페인어통번역) (Seminar for Freshmen) 신정환 (Shin. Jeong-Hwan) 1 1 목 9 (1503) (Thu 9 (1503)) 14 / 16
+60 신입생세미나 1 Y11111303 신입생세미나(스페인어통번역) (Seminar for Freshmen) 김준한 (Jun-Han Kim) 1 1 목 9 (1503) (Thu 9 (1503)) 16 / 16
+61 신입생세미나 1 Y11111304 신입생세미나(스페인어통번역) (Seminar for Freshmen) 이만희 (Manhee LEE) 1 1 목 9 (1503) (Thu 9 (1503)) 16 / 16
+62 신입생세미나 1 Y11111305 신입생세미나(스페인어통번역) (Seminar for Freshmen) 이강국 (Kang Guk Lee) 1 1 목 9 (1503) (Thu 9 (1503)) 12 / 16
+63 신입생세미나 1 Y11111801 신입생세미나(아랍어통번역) (Seminar for Freshmen) 최진영 (Choi, Jin-Young) 1 1 월 9 (1507) (Mon 9 (1507)) 25 / 25
+64 신입생세미나 1 Y11111802 신입생세미나(아랍어통번역) (Seminar for Freshmen) 김수완 (Kim Su Wan) 1 1 월 9 (1507) (Mon 9 (1507)) 23 / 25
+65 신입생세미나 1 Y11112F01 신입생세미나(아프리카학) (Seminar for Freshmen) 장태상 (Jang, Tae-Sang) 1 1 수 9 (1306) (Wed 9 (1306)) 10 / 10
+66 신입생세미나 1 Y11112F02 신입생세미나(아프리카학) (Seminar for Freshmen) 박정경 (Jeong Kyung Park) 1 1 수 9 (1306) (Wed 9 (1306)) 15 / 15
+67 신입생세미나 1 Y11112F03 신입생세미나(아프리카학) (Seminar for Freshmen) 권명식 (Kwon, Myong-Shik) 1 1 수 9 (1306) (Wed 9 (1306)) 11 / 15
+68 신입생세미나 1 Y11112F04 신입생세미나(아프리카학) (Seminar for Freshmen) 황규득 (Hwang, Kyu Deug) 1 1 수 9 (1306) (Wed 9 (1306)) 10 / 10
+69 신입생세미나 1 Y11112F05 신입생세미나(아프리카학) (Seminar for Freshmen) 장용규 (Yong Kyu Chang) 1 1 수 9 (1306) (Wed 9 (1306)) 10 / 10
+70 신입생세미나 1 Y11113301 신입생세미나(언어인지과학) (Seminar for Freshmen) 채희락 (Chae, Hee-Rahk) 1 1 화 10 (4210) (Tue 10 (4210)) 12 / 12
+71 신입생세미나 1 Y11113302 신입생세미나(언어인지과학) (Seminar for Freshmen) 남지순 (Nam Jee Sun) 1 1 화 10 (4404) (Tue 10 (4404)) 16 / 18
+72 신입생세미나 1 Y11113303 신입생세미나(언어인지과학) (Seminar for Freshmen) 송재목 (Song, Jaemog) 1 1 화 10 (4210) (Tue 10 (4210)) 9 / 10
+73 신입생세미나 1 Y11113304 신입생세미나(언어인지과학) (Seminar for Freshmen) 전종섭 (Jong Sup Jun) 1 1 화 10 (4210) (Tue 10 (4210)) 10 / 10
+74 신입생세미나 1 Y11111101 신입생세미나(영어통번역) (Seminar for Freshmen) 김지현 (Ji Hyon Kim) 1 1 수 9 (1410) (Wed 9 (1410)) 12 / 12
+75 신입생세미나 1 Y11111102 신입생세미나(영어통번역) (Seminar for Freshmen) 김유강 (Yookang Kim) 1 1 수 9 (1410) (Wed 9 (1410)) 11 / 12
+76 신입생세미나 1 Y11111103 신입생세미나(영어통번역) (Seminar for Freshmen) 윤선경 (Yoon Sun Kyoung) 1 1 수 9 (1410) (Wed 9 (1410)) 12 / 12
+77 신입생세미나 1 Y11111104 신입생세미나(영어통번역) (Seminar for Freshmen) 박정만 (PARK, JUNGMAN) 1 1 수 9 (1410) (Wed 9 (1410)) 12 / 12
+78 신입생세미나 1 Y11111105 신입생세미나(영어통번역) (Seminar for Freshmen) 김상수 (Sangsoo Kim) 1 1 수 9 (1410) (Wed 9 (1410)) 12 / 12
+79 신입생세미나 1 Y11111106 신입생세미나(영어통번역) (Seminar for Freshmen) 최은아 (Eunah Choi) 1 1 수 9 (1410) (Wed 9 (1410)) 12 / 12
+80 신입생세미나 1 Y11111107 신입생세미나(영어통번역) (Seminar for Freshmen) 성승은 (Sung, Seung-eun) 1 1 수 9 (1410) (Wed 9 (1410)) 12 / 12
+81 신입생세미나 1 Y11111108 신입생세미나(영어통번역) (Seminar for Freshmen) 정호정 (Cheong, Ho-Jeong) 1 1 수 9 (1410) (Wed 9 (1410)) 12 / 12
+82 신입생세미나 1 Y11111109 신입생세미나(영어통번역) (Seminar for Freshmen) 이진아 (Jin-Ah Lee) 1 1 수 9 (1410) (Wed 9 (1410)) 12 / 12
+83 신입생세미나 1 Y11112601 신입생세미나(우크라이나어) (Seminar for Freshmen) 홍석우 (Sogu Hong) 1 1 화 9 (1310) (Tue 9 (1310)) 21 / 22
+84 신입생세미나 1 Y11111401 신입생세미나(이탈리아어통번역) (Seminar for Freshmen) 조문환 (Cho. Moon-Hwan) 1 1 월 9 (1504) (Mon 9 (1504)) 30 / 32
+85 신입생세미나 1 Y11112D01 신입생세미나(인도학) (Seminar for Freshmen) 임근동 (Lim Geun Dong) 1 1 수 9 (1307) (Wed 9 (1307)) 26 / 없음
+86 신입생세미나 1 Y11111601 신입생세미나(일본어통번역) (Seminar for Freshmen) 정상철 (JUNG SANG CHEOL) 1 1 월 10 (1506) (Mon 10 (1506)) 13 / 13
+87 신입생세미나 1 Y11111602 신입생세미나(일본어통번역) (Seminar for Freshmen) 권경애 (Kwon Kyoung Ae) 1 1 월 10 (1506) (Mon 10 (1506)) 13 / 13
+88 신입생세미나 1 Y11111603 신입생세미나(일본어통번역) (Seminar for Freshmen) 서재곤 (SUH Jae-Gon) 1 1 월 10 (1506) (Mon 10 (1506)) 13 / 13
+89 신입생세미나 1 Y11111604 신입생세미나(일본어통번역) (Seminar for Freshmen) 하재필 (Ha Jae Phil) 1 1 월 10 (1506) (Mon 10 (1506)) 11 / 12
+90 신입생세미나 1 Y11114C01 신입생세미나(전자공학) (Seminar for Freshmen) 강준우 (Jun-Woo Kang) 1 1 수 9 (5212) (Wed 9 (5212)) 7 / 7
+91 신입생세미나 1 Y11114C02 신입생세미나(전자공학) (Seminar for Freshmen) 조경순 (Cho, Kyeongsoon) 1 1 수 9 (5212) (Wed 9 (5212)) 7 / 7
+92 신입생세미나 1 Y11114C03 신입생세미나(전자공학) (Seminar for Freshmen) 정동근 (Jeong, Dong Geun) 1 1 수 9 (5212) (Wed 9 (5212)) 7 / 7
+93 신입생세미나 1 Y11114C04 신입생세미나(전자공학) (Seminar for Freshmen) 김동식 (Kim Dong Sik) 1 1 수 9 (5212) (Wed 9 (5212)) 3 / 7
+94 신입생세미나 1 Y11114C05 신입생세미나(전자공학) (Seminar for Freshmen) 주정석 (JUNG SUK JOO) 1 1 수 9 (5212) (Wed 9 (5212)) 7 / 7
+95 신입생세미나 1 Y11114C06 신입생세미나(전자공학) (Seminar for Freshmen) 이성현 (LEE, Seonghearn) 1 1 수 9 (5212) (Wed 9 (5212)) 7 / 7
+96 신입생세미나 1 Y11114C07 신입생세미나(전자공학) (Seminar for Freshmen) 박영철 (Park, Youngcheol) 1 1 수 9 (5212) (Wed 9 (5212)) 7 / 7
+97 신입생세미나 1 Y11114C08 신입생세미나(전자공학) (Seminar for Freshmen) 이정훈 (Lee, Jung Hoon) 1 1 수 9 (5212) (Wed 9 (5212)) 7 / 7
+98 신입생세미나 1 Y11114301 신입생세미나(전자물리학) (Seminar for Freshmen) 이보화 (LEE, Bo Wha) 1 1 목 9 (0401) (Thu 9 (0401)) 12 / 12
+99 신입생세미나 1 Y11114302 신입생세미나(전자물리학) (Seminar for Freshmen) 이석주 (Rhee Seuk Joo) 1 1 목 9 (0401) (Thu 9 (0401)) 12 / 12
+100 신입생세미나 1 Y11114303 신입생세미나(전자물리학) (Seminar for Freshmen) 정창욱 (Chang Uk Jung) 1 1 목 9 (0401) (Thu 9 (0401)) 8 / 12
+101 신입생세미나 1 Y11114304 신입생세미나(전자물리학) (Seminar for Freshmen) 김태경 (Kim Taekyeong) 1 1 목 9 (0401) (Thu 9 (0401)) 12 / 12
+102 신입생세미나 1 Y11114B01 신입생세미나(정보통신공학) (Seminar for Freshmen) 홍진표 (Jin Pyo Hong) 1 1 화 9 (5213) (Tue 9 (5213)) 2 / 10
+103 신입생세미나 1 Y11114B02 신입생세미나(정보통신공학) (Seminar for Freshmen) 김희동 (Kim, Hee Dong) 1 1 화 9 (5213) (Tue 9 (5213)) 10 / 10
+104 신입생세미나 1 Y11114B03 신입생세미나(정보통신공학) (Seminar for Freshmen) 김명진 (Kim Myoung Jin) 1 1 화 9 (5213) (Tue 9 (5213)) 6 / 10
+105 신입생세미나 1 Y11114B04 신입생세미나(정보통신공학) (Seminar for Freshmen) 한희일 (Hahn Hee-il) 1 1 화 9 (5213) (Tue 9 (5213)) 2 / 10
+106 신입생세미나 1 Y11114B05 신입생세미나(정보통신공학) (Seminar for Freshmen) 정성호 (Seong-Ho Jeong) 1 1 화 9 (5213) (Tue 9 (5213)) 10 / 10
+107 신입생세미나 1 Y11114B06 신입생세미나(정보통신공학) (Seminar for Freshmen) 박상원 (Sangwon Park) 1 1 화 9 (5213) (Tue 9 (5213)) 10 / 10
+108 신입생세미나 1 Y11114B07 신입생세미나(정보통신공학) (Seminar for Freshmen) 김세화 (Saehwa Kim) 1 1 화 9 (5213) (Tue 9 (5213)) 10 / 10
+109 신입생세미나 1 Y11111501 신입생세미나(중국어통번역) (Seminar for Freshmen) 김현주 (Kim Hyun Ju) 1 1 목 9 (0403) (Thu 9 (0403)) 19 / 20
+110 신입생세미나 1 Y11111502 신입생세미나(중국어통번역) (Seminar for Freshmen) 최재영 (CHOI, JAE-YOUNG) 1 1 월 9 (1505) (Mon 9 (1505)) 20 / 20
+111 신입생세미나 1 Y11111503 신입생세미나(중국어통번역) (Seminar for Freshmen) 남종호 (NAM, JONG HO) 1 1 수 9 (1505) (Wed 9 (1505)) 20 / 20
+112 신입생세미나 1 Y11111504 신입생세미나(중국어통번역) (Seminar for Freshmen) 임대근 (Lim, Dae-geun) 1 1 수 9 (1505) (Wed 9 (1505)) 21 / 21
+113 신입생세미나 1 Y11112E01 신입생세미나(중앙아시아학) (Seminar for Freshmen) 손영훈 (Young-Hoon Son) 1 1 월 9 (1502) (Mon 9 (1502)) 32 / 40
+114 신입생세미나 1 Y11113401 신입생세미나(지식콘텐츠학) (Seminar for Freshmen) 김민형 (Kim, Minhyoung) 1 1 월 9 (4404) (Mon 9 (4404)) 17 / 20
+115 신입생세미나 1 Y11113101 신입생세미나(철학) (Seminar for Freshmen) 박치완 (PARK, Tchi-Wan) 1 1 목 9 (4210) (Thu 9 (4210)) 2 / 10
+116 신입생세미나 1 Y11113102 신입생세미나(철학) (Seminar for Freshmen) 윤성우 (YUN SEONG WOO) 1 1 목 9 (4210) (Thu 9 (4210)) 10 / 10
+117 신입생세미나 1 Y11113103 신입생세미나(철학) (Seminar for Freshmen) 김원명 (Kim, Won Myoung) 1 1 목 9 (4210) (Thu 9 (4210)) 9 / 10
+118 신입생세미나 1 Y11113104 신입생세미나(철학) (Seminar for Freshmen) 홍성민 (Hong, Seongmin) 1 1 목 9 (4210) (Thu 9 (4210)) 10 / 10
+119 신입생세미나 1 Y11113105 신입생세미나(철학) (Seminar for Freshmen) 권영우 (Kwon, Young Woo) 1 1 목 9 (4210) (Thu 9 (4210)) 11 / 11
+120 신입생세미나 1 Y11112301 신입생세미나(체코.슬로바키아어) (Seminar for Freshmen) 김인천 (Inchon Kim) 1 1 월 9 (1514) (Mon 9 (1514)) 20 / 22
+121 신입생세미나 1 Y11112302 신입생세미나(체코.슬로바키아어) (Seminar for Freshmen) 유선비 (Yu Sunbee) 1 1 월 9 (1514) (Mon 9 (1514)) 20 / 22
+122 신입생세미나 1 Y11114F01 신입생세미나(컴퓨터.전자시스템공학) (Seminar for Freshmen) 김상철 (Kim Sang Chul) 1 1 목 9 (5201) (Thu 9 (5201)) 10 / 10
+123 신입생세미나 1 Y11114F02 신입생세미나(컴퓨터.전자시스템공학) (Seminar for Freshmen) 김정국 (Kim Jung Guk) 1 1 목 9 (5201) (Thu 9 (5201)) 10 / 10
+124 신입생세미나 1 Y11114F03 신입생세미나(컴퓨터.전자시스템공학) (Seminar for Freshmen) 김차성 (Kim Cha Sung) 1 1 목 9 (5201) (Thu 9 (5201)) 3 / 10
+125 신입생세미나 1 Y11114F04 신입생세미나(컴퓨터.전자시스템공학) (Seminar for Freshmen) 김희철 (Hee-Chul Kim) 1 1 목 9 (5201) (Thu 9 (5201)) 10 / 10
+126 신입생세미나 1 Y11114F05 신입생세미나(컴퓨터.전자시스템공학) (Seminar for Freshmen) 손기락 (Sohn, Kirack) 1 1 목 9 (5201) (Thu 9 (5201)) 10 / 10
+127 신입생세미나 1 Y11114F06 신입생세미나(컴퓨터.전자시스템공학) (Seminar for Freshmen) 조상영 (Cho, Sang-Young) 1 1 목 9 (5201) (Thu 9 (5201)) 3 / 10
+128 신입생세미나 1 Y11114F07 신입생세미나(컴퓨터.전자시스템공학) (Seminar for Freshmen) 한현구 (Hyungoo Han) 1 1 목 9 (5201) (Thu 9 (5201)) 10 / 10
+129 신입생세미나 1 Y11114F08 신입생세미나(컴퓨터.전자시스템공학) (Seminar for Freshmen) 최재영 (Choi, Jae Young) 1 1 목 9 (5201) (Thu 9 (5201)) 10 / 10
+130 신입생세미나 1 Y11114F09 신입생세미나(컴퓨터.전자시스템공학) (Seminar for Freshmen) 김낙현 (Kim, Nak Hyun) 1 1 목 9 (5201) (Thu 9 (5201)) 10 / 10
+131 신입생세미나 1 Y11114F10 신입생세미나(컴퓨터.전자시스템공학) (Seminar for Freshmen) 김성복 (Kim, Sungbok) 1 1 목 9 (5201) (Thu 9 (5201)) 7 / 10
+132 신입생세미나 1 Y11114F12 신입생세미나(컴퓨터.전자시스템공학) (Seminar for Freshmen) 이윤석 (Yunseok Rhee) 1 1 목 9 (5201) (Thu 9 (5201)) 4 / 10
+133 신입생세미나 1 Y11114F13 신입생세미나(컴퓨터.전자시스템공학) (Seminar for Freshmen) 이재혁 (Lee Jae Hyeok) 1 1 목 9 (5201) (Thu 9 (5201)) 10 / 10
+134 신입생세미나 1 Y11114F14 신입생세미나(컴퓨터.전자시스템공학) (Seminar for Freshmen) 임승호 (Seung-Ho Lim) 1 1 목 9 (5201) (Thu 9 (5201)) 10 / 10
+135 신입생세미나 1 Y11114F15 신입생세미나(컴퓨터.전자시스템공학) (Seminar for Freshmen) 정대인 (Jeong Dae In) 1 1 목 9 (5201) (Thu 9 (5201)) 10 / 10
+136 신입생세미나 1 Y11111701 신입생세미나(태국어통번역) (Seminar for Freshmen) 이병도 (Lee Byung Do) 1 1 수 9 (1510) (Wed 9 (1510)) 17 / 20
+137 신입생세미나 1 Y11111702 신입생세미나(태국어통번역) (Seminar for Freshmen) 윤경원 (Yoon Kyung-Won) 1 1 화 9 (1510) (Tue 9 (1510)) 18 / 20
+138 신입생세미나 1 Y11114201 신입생세미나(통계학) (Seminar for Freshmen) 강기훈 (Kee Hoon Kang) 1 1 목 9 (0302) (Thu 9 (0302)) 9 / 10
+139 신입생세미나 1 Y11114202 신입생세미나(통계학) (Seminar for Freshmen) 정석오 (Seok-Oh Jeong) 1 1 목 9 (0302) (Thu 9 (0302)) 3 / 10
+140 신입생세미나 1 Y11114203 신입생세미나(통계학) (Seminar for Freshmen) 박흥선 (Heungsun (Sunny) Park) 1 1 목 9 (0302) (Thu 9 (0302)) 9 / 10
+141 신입생세미나 1 Y11114204 신입생세미나(통계학) (Seminar for Freshmen) 이태욱 (Taewook Lee) 1 1 목 9 (0302) (Thu 9 (0302)) 9 / 10
+142 신입생세미나 1 Y11114205 신입생세미나(통계학) (Seminar for Freshmen) 이석호 (SEOKHO LEE) 1 1 목 9 (0302) (Thu 9 (0302)) 10 / 10
+143 신입생세미나 1 Y11114206 신입생세미나(통계학) (Seminar for Freshmen) 최대우 (Choi, Dae Woo) 1 1 목 9 (0302) (Thu 9 (0302)) 10 / 10
+144 신입생세미나 1 Y11112101 신입생세미나(폴란드어) (Seminar for Freshmen) 최성은 (Choi Sung Eun) 1 1 화 9 (1314) (Tue 9 (1314)) 14 / 14
+145 신입생세미나 1 Y11112102 신입생세미나(폴란드어) (Seminar for Freshmen) 김용덕 (Kim Yongdeog) 1 1 화 9 (1314) (Tue 9 (1314)) 12 / 14
+146 신입생세미나 1 Y11112103 신입생세미나(폴란드어) (Seminar for Freshmen) 김종석 (Kim Jong Suck) 1 1 화 9 (1314) (Tue 9 (1314)) 12 / 14
+147 신입생세미나 1 Y11112A01 신입생세미나(프랑스학) (Seminar for Freshmen) 김응운 (Kim Eung-Woon) 1 1 목 9 (1308) (Thu 9 (1308)) 13 / 15
+148 신입생세미나 1 Y11112A02 신입생세미나(프랑스학) (Seminar for Freshmen) 김모세 (Kim, Mo Se) 1 1 목 9 (1308) (Thu 9 (1308)) 16 / 16
+149 신입생세미나 1 Y11112A03 신입생세미나(프랑스학) (Seminar for Freshmen) 신정아 (Junga Shin) 1 1 목 9 (1308) (Thu 9 (1308)) 12 / 13
+150 신입생세미나 1 Y11112A04 신입생세미나(프랑스학) (Seminar for Freshmen) 최용호 (Choi Yong Ho) 1 1 목 9 (1308) (Thu 9 (1308)) 12 / 12
+151 신입생세미나 1 Y11112H01 신입생세미나(한국학) (Seminar for Freshmen) 김태우 (Kim, Taewoo) 1 1 화 9 (1409-2) (Tue 9 (1409-2)) 10 / 10
+152 신입생세미나 1 Y11112H02 신입생세미나(한국학) (Seminar for Freshmen) 최현희 (Choe, Hyonhui) 1 1 화 9 (1409-2) (Tue 9 (1409-2)) 10 / 10
+153 신입생세미나 1 Y11112401 신입생세미나(헝가리어) (Seminar for Freshmen) 유진일 (Yoo, Jin-il) 1 1 화 9 (1512) (Tue 9 (1512)) 19 / 20
+154 신입생세미나 1 Y11112402 신입생세미나(헝가리어) (Seminar for Freshmen) 박수영 (Park Soo Young) 1 1 화 9 (1512) (Tue 9 (1512)) 13 / 20
+155 신입생세미나 1 Y11114601 신입생세미나(화학) (Seminar for Freshmen) 은창선 (Eun, Changsun) 1 1 목 9 (0402) (Thu 9 (0402)) 10 / 10
+156 신입생세미나 1 Y11114602 신입생세미나(화학) (Seminar for Freshmen) 박진균 (Park, Jin Kuen) 1 1 목 9 (0402) (Thu 9 (0402)) 10 / 10
+157 신입생세미나 1 Y11114603 신입생세미나(화학) (Seminar for Freshmen) 김연규 (Kim, Younkyoo) 1 1 목 9 (0402) (Thu 9 (0402)) 4 / 10
+158 신입생세미나 1 Y11114604 신입생세미나(화학) (Seminar for Freshmen) 김용애 (Kim, Yongae) 1 1 목 9 (0402) (Thu 9 (0402)) 10 / 10
+159 신입생세미나 1 Y11114605 신입생세미나(화학) (Seminar for Freshmen) 허성 (Huh, Seong) 1 1 목 9 (0402) (Thu 9 (0402)) 10 / 10
+160 신입생세미나 1 Y11114606 신입생세미나(화학) (Seminar for Freshmen) 김해조 (Hae-Jo Kim) 1 1 목 9 (0402) (Thu 9 (0402)) 11 / 11
+161 신입생세미나 1 Y11114401 신입생세미나(환경학) (Seminar for Freshmen) 강구영 (Guyoung Kang) 1 1 목 9 (0415) (Thu 9 (0415)) 6 / 12
+162 신입생세미나 1 Y11114402 신입생세미나(환경학) (Seminar for Freshmen) 김영성 (Young Sung Ghim) 1 1 목 9 (0415) (Thu 9 (0415)) 12 / 12
+163 신입생세미나 1 Y11114403 신입생세미나(환경학) (Seminar for Freshmen) 이강웅 (GANGWOONG LEE) 1 1 목 9 (0415) (Thu 9 (0415)) 12 / 12
+164 신입생세미나 1 Y11114404 신입생세미나(환경학) (Seminar for Freshmen) 이태형 (Lee, Taehyoung) 1 1 목 9 (0415) (Thu 9 (0415)) 12 / 12
+165 신입생세미나 1 Y11114405 신입생세미나(환경학) (Seminar for Freshmen) 조재창 (Cho, Jae-Chang) 1 1 목 9 (0415) (Thu 9 (0415)) 12 / 12
+
+========== HUFS CAREER(글로벌) ==========
+1 HUFS CAREER 2 Y12103201 HUFS Career Vision Mentoring(진로.취/창업경력개발) (HUFS Career Vision Mentoring(Defining Career Path and Development)) 유선비 (Yu Sunbee) 1 2 월 5 6 (5207) (Mon 5 6 (5207)) 138 / 140 1학년 수강금지
+2 HUFS CAREER 2 Y12103202 HUFS Career Vision Mentoring(진로.취/창업경력개발) (HUFS Career Vision Mentoring(Defining Career Path and Development)) 유선비 (Yu Sunbee) 1 2 월 7 8 (5207) (Mon 7 8 (5207)) 138 / 140 1학년 수강금지
+3 HUFS CAREER 2 Y12103203 HUFS Career Vision Mentoring(진로.취/창업경력개발) (HUFS Career Vision Mentoring(Defining Career Path and Development)) 유선비 (Yu Sunbee) 1 2 화 5 6 (5207) (Tue 5 6 (5207)) 140 / 140 1학년 수강금지
+4 HUFS CAREER 2 Y12103204 HUFS Career Vision Mentoring(진로.취/창업경력개발) (HUFS Career Vision Mentoring(Defining Career Path and Development)) 유선비 (Yu Sunbee) 1 2 화 7 8 (5207) (Tue 7 8 (5207)) 141 / 140 1학년 수강금지
+5 HUFS CAREER 2 Y12103205 HUFS Career Vision Mentoring(진로.취/창업경력개발) (HUFS Career Vision Mentoring(Defining Career Path and Development)) 유선비 (Yu Sunbee) 1 2 목 3 4 (5207) (Thu 3 4 (5207)) 137 / 140 1학년 수강금지
+6 HUFS CAREER 2 Y12103206 HUFS Career Vision Mentoring(진로.취/창업경력개발) (HUFS Career Vision Mentoring(Defining Career Path and Development)) 유선비 (Yu Sunbee) 1 2 목 5 6 (5207) (Thu 5 6 (5207)) 136 / 140 1학년 수강금지
+7 HUFS CAREER 2 Y12103207 HUFS Career Vision Mentoring(진로.취/창업경력개발) (HUFS Career Vision Mentoring(Defining Career Path and Development)) 유선비 (Yu Sunbee) 1 2 목 7 8 (5207) (Thu 7 8 (5207)) 136 / 140 1학년 수강금지
+
+========== 대학외국어(글로벌) ==========
+1 대학외국어 1 Y13105301 대학독일어1 (Academic German 1) 김이천 (Kim, I-Cheon) 3 3 수 2 (0413) 목 1 2 (0515) (Wed 2 (0413) Thu 1 2 (0515)) 41 / 50
+2 대학외국어 1 Y13121301 대학말레이.인도네시아어1 (Academic Malay-Indonesian 1) 변윤행 (Byun Yoonhaeng) 3 3 월 1 2 (0513) 수 5 (0511) (Mon 1 2 (0513) Wed 5 (0511)) 17 / 30
+3 대학외국어 1 Y13123301 대학베트남어1 (Academic Vietnamese 1) 호티롱안 (Ho Thi Long An) 3 3 월 1 2 (0405) 수 5 (0507) (Mon 1 2 (0405) Wed 5 (0507)) 16 / 30
+4 대학외국어 1 Y13109301 대학스페인어1 (Academic Spanish 1) 이한철 (leehanchul) 3 3 월 3 4 (0514) 금 8 (0410) (Mon 3 4 (0514) Fri 8 (0410)) 27 / 30
+5 대학외국어 1 Y13109302 대학스페인어1 (Academic Spanish 1) 전혜찬 (Chun. Hae-Chan) 3 3 월 1 2 (0514) 금 7 (0410) (Mon 1 2 (0514) Fri 7 (0410)) 24 / 30
+6 대학외국어 1 Y13119301 대학아랍어1 (Academic Arabic 1) 정미순 (Misoon Jung) 3 3 월 3 4 (0405) 목 2 (0412) (Mon 3 4 (0405) Thu 2 (0412)) 16 / 30
+7 대학외국어 1 Y13101401 대학영어1 (Academic English 1) Alice Julianna Yoo 3 3 월 3 4 (0404) 금 2 (0411) (Mon 3 4 (0404) Fri 2 (0411)) 26 / 30 진리(박수진)
+8 대학외국어 1 Y13101402 대학영어1 (Academic English 1) Ryan Richard Fitzgerald 3 3 월 1 2 (0412) 금 1 (0411) (Mon 1 2 (0412) Fri 1 (0411)) 29 / 30 진리(박수진)
+9 대학외국어 1 Y13101403 대학영어1 (Academic English 1) Stewart James Gray 3 3 월 1 2 (0410) 수 4 (0509) (Mon 1 2 (0410) Wed 4 (0509)) 30 / 30 평화(송은지)
+10 대학외국어 1 Y13101404 대학영어1 (Academic English 1) Nathan Jared Hoffman (Nathan Hoffman) 3 3 월 8 (0409) 수 7 8 (0508) (Mon 8 (0409) Wed 7 8 (0508)) 29 / 30 창조(김다정)
+11 대학외국어 1 Y13101405 대학영어1 (Academic English 1) Scott Michael Henderson 3 3 월 1 2 (0509) 수 5 (0409) (Mon 1 2 (0509) Wed 5 (0409)) 29 / 30 평화(이나경)
+12 대학외국어 1 Y13101406 대학영어1 (Academic English 1) Frazer Johnston-Theasby 3 3 월 1 2 (0508) 수 1 (0509) (Mon 1 2 (0508) Wed 1 (0509)) 28 / 30 창조(정형석)
+13 대학외국어 1 Y13101407 대학영어1 (Academic English 1) Brian Hupman 3 3 월 1 2 금 6 (0409) (Mon 1 2 Fri 6 (0409)) 30 / 30 평화(이정화)
+14 대학외국어 1 Y13101408 대학영어1 (Academic English 1) Nathan Jared Hoffman (Nathan Hoffman) 3 3 수 5 6 (0508) 금 4 (0410) (Wed 5 6 (0508) Fri 4 (0410)) 30 / 30 평화(이주은)
+15 대학외국어 1 Y13101409 대학영어1 (Academic English 1) Ashleigh Nicole Middleton 3 3 월 7 8 (0508) 수 7 (0410) (Mon 7 8 (0508) Wed 7 (0410)) 29 / 30 창조(김정민)
+16 대학외국어 1 Y13101410 대학영어1 (Academic English 1) Alice Julianna Yoo 3 3 수 5 6 (0404) 금 7 (0411) (Wed 5 6 (0404) Fri 7 (0411)) 29 / 30 진리(박수진)
+17 대학외국어 1 Y13101411 대학영어1 (Academic English 1) Ashleigh Nicole Middleton 3 3 월 5 6 (0508) 수 3 (0410) (Mon 5 6 (0508) Wed 3 (0410)) 30 / 30 평화(이나경)
+18 대학외국어 1 Y13101412 대학영어1 (Academic English 1) Pierre Rene Gallant 3 3 수 7 8 (0412) 금 3 (0410) (Wed 7 8 (0412) Fri 3 (0410)) 28 / 30 평화(이주은)
+19 대학외국어 1 Y13101413 대학영어1 (Academic English 1) Ashleigh Nicole Middleton 3 3 월 3 4 (0508) 수 3 (0509) (Mon 3 4 (0508) Wed 3 (0509)) 30 / 30 창조(정형석)
+20 대학외국어 1 Y13101414 대학영어1 (Academic English 1) Alice Julianna Yoo 3 3 월 2 (0411) 수 7 8 (0404) (Mon 2 (0411) Wed 7 8 (0404)) 30 / 30 진리(안지희)
+21 대학외국어 1 Y13101415 대학영어1 (Academic English 1) Ashleigh Nicole Middleton 3 3 월 2 (0511) 수 7 8 (0411) (Mon 2 (0511) Wed 7 8 (0411)) 30 / 30 평화(홍혜진)
+22 대학외국어 1 Y13101416 대학영어1 (Academic English 1) Alice Julianna Yoo 3 3 월 5 금 3 4 (0509) (Mon 5 Fri 3 4 (0509)) 30 / 30 진리(안지희)
+23 대학외국어 1 Y13101417 대학영어1 (Academic English 1) Brian Hupman 3 3 월 2 (0512) 금 3 4 (0409) (Mon 2 (0512) Fri 3 4 (0409)) 30 / 30 평화(김지혜)
+24 대학외국어 1 Y13101418 대학영어1 (Academic English 1) Ryan Richard Fitzgerald 3 3 월 1 금 7 8 (0404) (Mon 1 Fri 7 8 (0404)) 29 / 30 평화(이진환)
+25 대학외국어 1 Y13101419 대학영어1 (Academic English 1) Frazer Johnston-Theasby 3 3 수 7 8 (0509) 금 1 (0410) (Wed 7 8 (0509) Fri 1 (0410)) 30 / 30 평화(이주은)
+26 대학외국어 1 Y13101420 대학영어1 (Academic English 1) Frazer Johnston-Theasby 3 3 수 2 (0512) 금 7 8 (0511) (Wed 2 (0512) Fri 7 8 (0511)) 30 / 30 평화(송은지)
+27 대학외국어 1 Y13101421 대학영어1 (Academic English 1) Alice Julianna Yoo 3 3 월 1 (0411) 금 7 8 (0509) (Mon 1 (0411) Fri 7 8 (0509)) 21 / 30 진리(안지희)
+28 대학외국어 1 Y13101423 대학영어1 (Academic English 1) Stewart James Gray 3 3 수 8 (0409) 금 7 8 (0513) (Wed 8 (0409) Fri 7 8 (0513)) 29 / 30 평화(이나경)
+29 대학외국어 1 Y13101424 대학영어1 (Academic English 1) Nathan Jared Hoffman (Nathan Hoffman) 3 3 월 5 (0409) 수 3 4 (0508) (Mon 5 (0409) Wed 3 4 (0508)) 30 / 30 창조(김다정)
+30 대학외국어 1 Y13101425 대학영어1 (Academic English 1) Brian Hupman 3 3 월 3 4 (0409) 금 2 (0410) (Mon 3 4 (0409) Fri 2 (0410)) 30 / 30 평화(이주은)
+31 대학외국어 1 Y13101426 대학영어1 (Academic English 1) Stewart James Gray 3 3 월 8 수 1 2 (0511) (Mon 8 Wed 1 2 (0511)) 29 / 30 평화(홍혜진)
+32 대학외국어 1 Y13101427 대학영어1 (Academic English 1) Ashleigh Nicole Middleton 3 3 월 6 (0511) 금 7 8 (0512) (Mon 6 (0511) Fri 7 8 (0512)) 30 / 30 평화(홍혜진)
+33 대학외국어 1 Y13101428 대학영어1 (Academic English 1) Ryan Richard Fitzgerald 3 3 월 7 8 (0410) 금 5 (0409) (Mon 7 8 (0410) Fri 5 (0409)) 30 / 30 평화(이정화)
+34 대학외국어 1 Y13101429 대학영어1 (Academic English 1) Brian Hupman 3 3 월 7 8 수 3 (0411) (Mon 7 8 Wed 3 (0411)) 29 / 30 평화(김재수)
+35 대학외국어 1 Y13101430 대학영어1 (Academic English 1) Scott Michael Henderson 3 3 수 4 (0410) 금 7 8 (0412) (Wed 4 (0410) Fri 7 8 (0412)) 29 / 30 창조(김정민)
+36 대학외국어 1 Y13101431 대학영어1 (Academic English 1) Nathan Jared Hoffman (Nathan Hoffman) 3 3 월 6 (0512) 금 7 8 (0409) (Mon 6 (0512) Fri 7 8 (0409)) 22 / 30 평화(김지혜)
+37 대학외국어 1 Y13101432 대학영어1 (Academic English 1) Scott Michael Henderson 3 3 월 1 (0512) 금 1 2 (0412) (Mon 1 (0512) Fri 1 2 (0412)) 30 / 30 평화(김지혜)
+38 대학외국어 1 Y13101433 대학영어1 (Academic English 1) Nathan Jared Hoffman (Nathan Hoffman) 3 3 월 5 6 (0412) 수 8 (0410) (Mon 5 6 (0412) Wed 8 (0410)) 23 / 30 창조(김정민)
+39 대학외국어 1 Y13101434 대학영어1 (Academic English 1) Scott Michael Henderson 3 3 월 4 (0512) 수 3 4 (0404) (Mon 4 (0512) Wed 3 4 (0404)) 30 / 30 평화(김지혜)
+40 대학외국어 1 Y13101435 대학영어1 (Academic English 1) Alice Julianna Yoo 3 3 월 7 8 (0404) 금 5 (0411) (Mon 7 8 (0404) Fri 5 (0411)) 26 / 30 진리(박수진)
+41 대학외국어 1 Y13101436 대학영어1 (Academic English 1) Pierre Rene Gallant 3 3 월 5 6 (0411) 수 7 (0409) (Mon 5 6 (0411) Wed 7 (0409)) 30 / 30 평화(이나경)
+42 대학외국어 1 Y13101437 대학영어1 (Academic English 1) Ryan Richard Fitzgerald 3 3 수 1 2 (0409) 금 4 (0411) (Wed 1 2 (0409) Fri 4 (0411)) 30 / 30 진리(박수진)
+43 대학외국어 1 Y13101438 대학영어1 (Academic English 1) Brian Hupman 3 3 수 1 2 (0412) 금 1 (0508) (Wed 1 2 (0412) Fri 1 (0508)) 30 / 30 평화(박선주)
+44 대학외국어 1 Y13101439 대학영어1 (Academic English 1) Ashleigh Nicole Middleton 3 3 수 1 (0411) 금 1 2 (0512) (Wed 1 (0411) Fri 1 2 (0512)) 30 / 30 평화(김재수)
+45 대학외국어 1 Y13101441 대학영어1 (Academic English 1) Pierre Rene Gallant 3 3 월 3 4 수 2 (0411) (Mon 3 4 Wed 2 (0411)) 29 / 30 평화(김재수)
+46 대학외국어 1 Y13101442 대학영어1 (Academic English 1) Pierre Rene Gallant 3 3 수 3 4 (0412) 금 2 (0508) (Wed 3 4 (0412) Fri 2 (0508)) 30 / 30 평화(박선주)
+47 대학외국어 1 Y13101443 대학영어1 (Academic English 1) Frazer Johnston-Theasby 3 3 월 5 금 3 4 (0511) (Mon 5 Fri 3 4 (0511)) 30 / 30 평화(홍혜진)
+48 대학외국어 1 Y13101444 대학영어1 (Academic English 1) Ryan Richard Fitzgerald 3 3 월 5 6 (0410) 수 1 (0512) (Mon 5 6 (0410) Wed 1 (0512)) 30 / 30 평화(송은지)
+49 대학외국어 1 Y13101445 대학영어1 (Academic English 1) Ashleigh Nicole Middleton 3 3 수 5 (0509) 금 3 4 (0512) (Wed 5 (0509) Fri 3 4 (0512)) 29 / 30 평화(송은지)
+50 대학외국어 1 Y13101446 대학영어1 (Academic English 1) Stewart James Gray 3 3 월 3 4 (0410) 수 6 (0409) (Mon 3 4 (0410) Wed 6 (0409)) 29 / 30 평화(이나경)
+51 대학외국어 1 Y13101447 대학영어1 (Academic English 1) Ryan Richard Fitzgerald 3 3 수 3 4 (0409) 금 3 (0508) (Wed 3 4 (0409) Fri 3 (0508)) 27 / 30 평화(박선주)
+52 대학외국어 1 Y13101448 대학영어1 (Academic English 1) Brian Hupman 3 3 수 5 6 (0412) 금 6 (0411) (Wed 5 6 (0412) Fri 6 (0411)) 30 / 30 진리(박수진)
+53 대학외국어 1 Y13101449 대학영어1 (Academic English 1) Scott Michael Henderson 3 3 수 2 (0410) 금 3 4 (0412) (Wed 2 (0410) Fri 3 4 (0412)) 26 / 30 창조(김정민)
+54 대학외국어 1 Y13101450 대학영어1 (Academic English 1) Pierre Rene Gallant 3 3 월 7 (0509) 금 3 4 (0404) (Mon 7 (0509) Fri 3 4 (0404)) 17 / 30 진리(안지희)
+55 대학외국어 1 Y13101451 대학영어1 (Academic English 1) Stewart James Gray 3 3 월 6 (0409) 수 5 6 (0411) (Mon 6 (0409) Wed 5 6 (0411)) 27 / 30 창조(김다정)
+56 대학외국어 1 Y13101452 대학영어1 (Academic English 1) Stewart James Gray 3 3 수 2 (0509) 금 3 4 (0513) (Wed 2 (0509) Fri 3 4 (0513)) 30 / 30 창조(정혁석)
+57 대학외국어 1 Y13101453 대학영어1 (Academic English 1) Brian Hupman 3 3 월 4 (0509) 금 1 2 (0409) (Mon 4 (0509) Fri 1 2 (0409)) 22 / 30 진리(안지희)
+58 대학외국어 1 Y13101454 대학영어1 (Academic English 1) Nathan Jared Hoffman (Nathan Hoffman) 3 3 월 7 금 1 2 (0511) (Mon 7 Fri 1 2 (0511)) 29 / 30 평화(홍혜진)
+59 대학외국어 1 Y13101456 대학영어1 (Academic English 1) Scott Michael Henderson 3 3 월 5 6 (0404) 수 5 (0410) (Mon 5 6 (0404) Wed 5 (0410)) 28 / 30 창조(김정민)
+60 대학외국어 1 Y13101457 대학영어1 (Academic English 1) Scott Michael Henderson 3 3 월 7 (0409) 수 1 2 (0404) (Mon 7 (0409) Wed 1 2 (0404)) 29 / 30 창조(김다정)
+61 대학외국어 1 Y13101458 대학영어1 (Academic English 1) 이진환 (Jin-Hwan Lee) 3 3 월 2 (0404) 수 1 2 (0508) (Mon 2 (0404) Wed 1 2 (0508)) 29 / 30 평화(이진환)
+62 대학외국어 1 Y13101459 대학영어1 (Academic English 1) Frazer Johnston-Theasby 3 3 수 6 금 1 2 (0509) (Wed 6 Fri 1 2 (0509)) 30 / 30 평화(김귀원)
+63 대학외국어 1 Y13101460 대학영어1 (Academic English 1) Ryan Richard Fitzgerald 3 3 월 3 (0511) 금 5 6 (0404) (Mon 3 (0511) Fri 5 6 (0404)) 29 / 30 평화(홍혜진)
+64 대학외국어 1 Y13101461 대학영어1 (Academic English 1) Nathan Jared Hoffman (Nathan Hoffman) 3 3 월 3 4 (0412) 수 7 (0511) (Mon 3 4 (0412) Wed 7 (0511)) 30 / 30 평화(김귀원)
+65 대학외국어 1 Y13101462 대학영어1 (Academic English 1) Stewart James Gray 3 3 월 7 8 (0412) 수 6 (0410) (Mon 7 8 (0412) Wed 6 (0410)) 29 / 30 창조(김정민)
+66 대학외국어 1 Y13111301 대학이탈리아어1 (Academic Italian 1) 윤혜신 (YOON HYE SHIN) 3 3 월 1 2 (0206) 수 5 (0309) (Mon 1 2 (0206) Wed 5 (0309)) 14 / 30
+67 대학외국어 1 Y13117301 대학일본어1 (Academic Japanese 1) 김남경 (Kim Nam Kyoung) 3 3 월 3 4 금 6 (2310) (Mon 3 4 Fri 6 (2310)) 18 / 30
+68 대학외국어 1 Y13117302 대학일본어1 (Academic Japanese 1) 박혜성 (Park Hyesung) 3 3 월 1 2 금 5 (2310) (Mon 1 2 Fri 5 (2310)) 19 / 30
+69 대학외국어 1 Y13115301 대학중국어1 (Academic Chinese 1) 이혁 (Lee Hyouk) 3 3 월 1 2 수 2 (0501) (Mon 1 2 Wed 2 (0501)) 27 / 30
+70 대학외국어 1 Y13115302 대학중국어1 (Academic Chinese 1) 윤비취 (-) 3 3 월 3 4 (0605) 수 6 (0309) (Mon 3 4 (0605) Wed 6 (0309)) 19 / 30
+71 대학외국어 1 Y13113301 대학포르투갈어1 (Academic Portuguese 1) 변기현 (Byun Kihyun) 3 3 월 7 8 (0514) 금 5 (0410) (Mon 7 8 (0514) Fri 5 (0410)) 31 / 30
+72 대학외국어 1 Y13103301 대학프랑스어1 (Academic French 1) 박은영(F) (PARK EUN YOUNG) 3 3 월 4 5 6 (0601) (Mon 4 5 6 (0601)) 30 / 30
+
+========== 미네르바인문(글로벌) ==========
+1 미네르바인문 1 Y12101401 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 김석수 (Kim Suk Soo) 3 3 월 1 수 1 2 (2213) (Mon 1 Wed 1 2 (2213)) 45 / 45
+2 미네르바인문 1 Y12101402 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 김석수 (Kim Suk Soo) 3 3 월 2 수 3 4 (2213) (Mon 2 Wed 3 4 (2213)) 45 / 45
+3 미네르바인문 1 Y12101403 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 김석수 (Kim Suk Soo) 3 3 월 3 목 1 2 (2213) (Mon 3 Thu 1 2 (2213)) 45 / 45
+4 미네르바인문 1 Y12101404 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 김석수 (Kim Suk Soo) 3 3 월 4 목 3 4 (2213) (Mon 4 Thu 3 4 (2213)) 47 / 45
+5 미네르바인문 1 Y12101405 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 박남용 (PARK NAM YONG) 3 3 월 1 수 1 2 (2406) (Mon 1 Wed 1 2 (2406)) 39 / 45
+6 미네르바인문 1 Y12101406 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 박남용 (PARK NAM YONG) 3 3 월 2 수 3 4 (2406) (Mon 2 Wed 3 4 (2406)) 44 / 45
+7 미네르바인문 1 Y12101407 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 박남용 (PARK NAM YONG) 3 3 월 3 화 1 2 (2406) (Mon 3 Tue 1 2 (2406)) 45 / 45
+8 미네르바인문 1 Y12101408 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 박남용 (PARK NAM YONG) 3 3 월 4 화 3 4 (2406) (Mon 4 Tue 3 4 (2406)) 44 / 45
+9 미네르바인문 1 Y12101409 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 양선이 (Yang, Sunny) 3 3 월 3 (2412) 수 3 4 (2414) (Mon 3 (2412) Wed 3 4 (2414)) 45 / 45
+10 미네르바인문 1 Y12101410 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 양선이 (Yang, Sunny) 3 3 월 4 (2412) 수 5 6 (2414) (Mon 4 (2412) Wed 5 6 (2414)) 44 / 45
+11 미네르바인문 1 Y12101411 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 양선이 (Yang, Sunny) 3 3 월 5 (2412) 목 3 4 (2416) (Mon 5 (2412) Thu 3 4 (2416)) 44 / 45
+12 미네르바인문 1 Y12101412 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 양선이 (Yang, Sunny) 3 3 월 6 (2412) 목 5 6 (2416) (Mon 6 (2412) Thu 5 6 (2416)) 41 / 45
+13 미네르바인문 1 Y12101413 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 조준래 (Cho, Jun Rae) 3 3 화 1 목 1 2 (2412) (Tue 1 Thu 1 2 (2412)) 42 / 45
+14 미네르바인문 1 Y12101414 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 조준래 (Cho, Jun Rae) 3 3 화 2 목 3 4 (2412) (Tue 2 Thu 3 4 (2412)) 45 / 45
+15 미네르바인문 1 Y12101415 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 조준래 (Cho, Jun Rae) 3 3 화 3 금 1 2 (2412) (Tue 3 Fri 1 2 (2412)) 44 / 45
+16 미네르바인문 1 Y12101416 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 조준래 (Cho, Jun Rae) 3 3 화 4 금 3 4 (2412) (Tue 4 Fri 3 4 (2412)) 42 / 45
+17 미네르바인문 1 Y12101417 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 나영남 (Na Young Nam) 3 3 월 1 수 1 2 (2313) (Mon 1 Wed 1 2 (2313)) 43 / 45
+18 미네르바인문 1 Y12101418 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 나영남 (Na Young Nam) 3 3 월 2 수 3 4 (2313) (Mon 2 Wed 3 4 (2313)) 44 / 45
+19 미네르바인문 1 Y12101419 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 나영남 (Na Young Nam) 3 3 월 3 목 1 2 (2313) (Mon 3 Thu 1 2 (2313)) 45 / 45
+20 미네르바인문 1 Y12101420 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 나영남 (Na Young Nam) 3 3 월 4 목 3 4 (2313) (Mon 4 Thu 3 4 (2313)) 45 / 45
+21 미네르바인문 1 Y12101421 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 조정원 (Cho, Jung Won) 3 3 월 3 수 3 4 (0515) (Mon 3 Wed 3 4 (0515)) 44 / 45
+22 미네르바인문 1 Y12101422 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 조정원 (Cho, Jung Won) 3 3 월 4 수 5 6 (0515) (Mon 4 Wed 5 6 (0515)) 45 / 45
+23 미네르바인문 1 Y12101423 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 김영아 (Kim Young A) 3 3 월 1 (2412) 수 1 2 (2416) (Mon 1 (2412) Wed 1 2 (2416)) 43 / 45
+24 미네르바인문 1 Y12101424 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 김영아 (Kim Young A) 3 3 월 2 (2412) 수 3 4 (2416) (Mon 2 (2412) Wed 3 4 (2416)) 45 / 45
+25 미네르바인문 1 Y12101425 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 김용철 (Kim Yong Chul) 3 3 월 3 (2414) 수 3 4 (2413) (Mon 3 (2414) Wed 3 4 (2413)) 45 / 45
+26 미네르바인문 1 Y12101426 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 김용철 (Kim Yong Chul) 3 3 월 4 (2414) 수 5 6 (2413) (Mon 4 (2414) Wed 5 6 (2413)) 45 / 45
+27 미네르바인문 1 Y12101427 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 김재득 (Kim,Jae-Deuk) 3 3 수 3 (0512) 금 5 6 (0515) (Wed 3 (0512) Fri 5 6 (0515)) 45 / 45
+28 미네르바인문 1 Y12101428 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 노병호 (Row Byoung Ho) 3 3 월 3 (2417) 금 1 2 (2413) (Mon 3 (2417) Fri 1 2 (2413)) 45 / 45
+29 미네르바인문 1 Y12101429 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 노병호 (Row Byoung Ho) 3 3 월 4 (2417) 금 3 4 (2413) (Mon 4 (2417) Fri 3 4 (2413)) 43 / 45
+30 미네르바인문 1 Y12101430 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 박정훈 (PARK CHUNG HOON) 3 3 월 3 (2408) 금 1 2 (2414) (Mon 3 (2408) Fri 1 2 (2414)) 45 / 45
+31 미네르바인문 1 Y12101431 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 박정훈 (PARK CHUNG HOON) 3 3 월 4 (2408) 금 3 4 (2414) (Mon 4 (2408) Fri 3 4 (2414)) 45 / 45
+32 미네르바인문 1 Y12101432 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 신홍민 (Hongmin Shin) 3 3 수 1 (2414) 금 3 4 (2417) (Wed 1 (2414) Fri 3 4 (2417)) 45 / 45
+33 미네르바인문 1 Y12101433 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 신홍민 (Hongmin Shin) 3 3 수 2 (2414) 금 5 6 (2417) (Wed 2 (2414) Fri 5 6 (2417)) 41 / 45
+34 미네르바인문 1 Y12101434 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 오영민 (Oh Young Min) 3 3 화 3 (2416) 수 7 8 (2413) (Tue 3 (2416) Wed 7 8 (2413)) 40 / 45
+35 미네르바인문 1 Y12101435 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 홍구슬 (Hong Ku Seul) 3 3 수 3 금 3 4 (0403) (Wed 3 Fri 3 4 (0403)) 45 / 45
+36 미네르바인문 1 Y12101436 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 홍구슬 (Hong Ku Seul) 3 3 수 4 금 5 6 (0403) (Wed 4 Fri 5 6 (0403)) 44 / 45
+37 미네르바인문 1 Y12101437 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 박선균 (Park, Sunkyoon) 3 3 월 3 (2416) 수 5 6 (2412) (Mon 3 (2416) Wed 5 6 (2412)) 42 / 45
+38 미네르바인문 1 Y12101438 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 박선균 (Park, Sunkyoon) 3 3 월 4 (2416) 수 7 8 (2412) (Mon 4 (2416) Wed 7 8 (2412)) 42 / 45
+39 미네르바인문 1 Y12101439 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 정찬철 (Jeong, Chancheol) 3 3 화 1 (2413) 목 1 2 (2414) (Tue 1 (2413) Thu 1 2 (2414)) 45 / 45
+40 미네르바인문 1 Y12101440 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 정찬철 (Jeong, Chancheol) 3 3 화 2 (2413) 목 3 4 (2414) (Tue 2 (2413) Thu 3 4 (2414)) 43 / 45
+41 미네르바인문 1 Y12101441 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 정찬철 (Jeong, Chancheol) 3 3 화 3 (2413) 금 1 2 (2416) (Tue 3 (2413) Fri 1 2 (2416)) 44 / 45
+42 미네르바인문 1 Y12101442 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 정찬철 (Jeong, Chancheol) 3 3 화 4 (2413) 금 3 4 (2416) (Tue 4 (2413) Fri 3 4 (2416)) 43 / 45
+43 미네르바인문 1 Y12101443 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 최성욱 (Choi, Sung UK) 3 3 월 2 (2417) 목 5 6 (2413) (Mon 2 (2417) Thu 5 6 (2413)) 45 / 45
+44 미네르바인문 1 Y12101444 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 정근재 (CHUNG Keunjae) 3 3 수 1 2 (2413) 목 3 (2417) (Wed 1 2 (2413) Thu 3 (2417)) 43 / 45
+45 미네르바인문 1 Y12101445 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 방일권 (Bang Il Kwon) 3 3 월 2 수 5 6 (2416) (Mon 2 Wed 5 6 (2416)) 45 / 45
+46 미네르바인문 1 Y12101446 미네르바인문(1)읽기와쓰기-인간과문명 (Minerva Humanities Reading and Writing-Human being and civilization) 이재숙 (Lee Jae-sook) 3 3 화 3 (2414) 목 5 6 (2412) (Tue 3 (2414) Thu 5 6 (2412)) 41 / 45
+
+========== 실용외국어(선택)(글로벌) ==========
+1 실용외국어(선택) 1 Y71101201 HUFS Survival English 1 이정현 (Lee Jeong Hyun ) 2 3 월 1 2 3 (0309) (Mon 1 2 3 (0309)) 21 / 30
+2 실용외국어(선택) 1 Y71101202 HUFS Survival English 1 이정현 (Lee Jeong Hyun ) 2 3 월 4 5 6 (0309) (Mon 4 5 6 (0309)) 19 / 30
+3 실용외국어(선택) 1 Y71101203 HUFS Survival English 1 정민하 (Min-Ha,Jung) 2 3 수 1 2 3 (0514) (Wed 1 2 3 (0514)) 24 / 30
+4 실용외국어(선택) 1 Y71101204 HUFS Survival English 1 정민하 (Min-Ha,Jung) 2 3 수 4 5 6 (0514) (Wed 4 5 6 (0514)) 26 / 30
+5 실용외국어(선택) 1 Y71101205 HUFS Survival English 1 박선주 (Park Seon Ju) 2 3 금 4 5 6 (0309) (Fri 4 5 6 (0309)) 17 / 30
+6 실용외국어(선택) 2 U71187201 드라마일본어1 (Japanese in Drama 1) 김태희 (Kim taehee) 2 2 수 7 8 (0514) (Wed 7 8 (0514)) 28 / 30
+7 실용외국어(선택) 2 Y71119201 미디어영어청취 (Listening Comprehension of Media English) 박경선(E) (-) 2 2 목 1 2 (0404) (Thu 1 2 (0404)) 23 / 30
+8 실용외국어(선택) 2 Y71110101 여행중국어 (Travel Chinese) 윤비취 (-) 2 2 목 3 4 (0514) (Thu 3 4 (0514)) 27 / 30
+9 실용외국어(선택) U71191301 J-POP일본어 (J-POP Japanese) 하정민 (JEOUNG MIN HA) 2 2 월 7 8 (0309) (Mon 7 8 (0309)) 25 / 30
+10 실용외국어(선택) Y71118101 TED로배우는영어 (TED English) 손은미 (Eunmi Son) 2 2 화 5 6 (0412) (Tue 5 6 (0412)) 23 / 30
+11 실용외국어(선택) Y71117101 TOEIC듣기 (TOEIC Listening) 김재수 (KIm, Jaesoo) 2 2 화 3 4 (0509) (Tue 3 4 (0509)) 27 / 30
+12 실용외국어(선택) Y71117102 TOEIC듣기 (TOEIC Listening) 김재수 (KIm, Jaesoo) 2 2 화 7 8 (0412) (Tue 7 8 (0412)) 29 / 30
+13 실용외국어(선택) Y71116101 드라마로배우는영어 (English in Drama) 송미라 (Song Mi-Ra) 2 2 월 7 8 (0513) (Mon 7 8 (0513)) 26 / 30
+14 실용외국어(선택) Y71122101 실용스페인어기초다지기 (Basic Practical Spanish) 이인훈 (Lee In Hoon) 2 2 수 5 6 (0206) (Wed 5 6 (0206)) 29 / 30
+15 실용외국어(선택) E01103401 실용영문법(실외) (Practical English Grammar ) 조순영 (Cho, Soon-Young) 2 2 월 5 6 (0304) (Mon 5 6 (0304)) 30 / 30
+16 실용외국어(선택) E01103402 실용영문법(실외) (Practical English Grammar ) 조순영 (Cho, Soon-Young) 2 2 월 7 8 (0304) (Mon 7 8 (0304)) 26 / 30
+17 실용외국어(선택) Y71103101 실용영어글쓰기 (Practical English Writing) 박경선(E) (-) 2 2 목 3 4 (0404) (Thu 3 4 (0404)) 24 / 30
+18 실용외국어(선택) U71189301 애니메이션일본어 (Japanese in Animation) 김미정(J) (KIM MI JEONG) 2 2 목 1 2 (0514) (Thu 1 2 (0514)) 26 / 30
+19 실용외국어(선택) Y71129101 영어저널읽기 (Reading English Journals) 조순영 (Cho, Soon-Young) 2 2 화 1 2 (0309) (Tue 1 2 (0309)) 30 / 30
+20 실용외국어(선택) Y71120101 취업영어1 (Practical English for Carreer Development 1) Alice Julianna Yoo 2 2 목 7 8 (0514) (Thu 7 8 (0514)) 26 / 30
+
+========== 외국인을 위한 한국학(글로벌) ==========
+1 외국인을 위한 한국학 U72129101 Korea and the World (Korea and The World) 신규섭 (Shin, Gyu-Seob) 2 2 화 7 8 (0206) (Tue 7 8 (0206)) 29 / 40 외국인전용강좌
+2 외국인을 위한 한국학 U76332201 외국인을위한고급한국어 (Korean as a Foreign for Academic Purpose) 송혜원 (Hye Won Song) 2 2 화 7 8 (2502) (Tue 7 8 (2502)) 33 / 40 외국인전용강좌
+3 외국인을 위한 한국학 U76355201 외국인을위한말하기 (Speaking Korean as a Foreign Language) 한윤정 (Han, Yun-Jeong) 2 2 수 5 6 (2516) (Wed 5 6 (2516)) 28 / 40 외국인전용강좌
+4 외국인을 위한 한국학 U76330201 외국인을위한한국어1 (Korean 1 as a Foreign Language) 김진후 (Kim, Jinhoo) 2 2 목 3 4 (0303) (Thu 3 4 (0303)) 20 / 40 외국인전용강좌
+5 외국인을 위한 한국학 U76331201 외국인을위한한국어2 (Korean 2 as a Foreign Language) 김진후 (Kim, Jinhoo) 2 2 목 5 6 (0303) (Thu 5 6 (0303)) 32 / 40 외국인전용강좌
+
+========== 생활과스포츠(글로벌) ==========
+1 생활과스포츠 Y51137101 바둑 (Theory and Practice of Baduk) 고광식 (Ko Kwang Shik) 2 2 수 7 8 (2516) (Wed 7 8 (2516)) 44 / 50
+2 생활과스포츠 Y51137102 바둑 (Theory and Practice of Baduk) 고광식 (Ko Kwang Shik) 2 2 목 7 8 (2513) (Thu 7 8 (2513)) 46 / 50
+3 생활과스포츠 U71851201 스포츠의글로벌문화 (The Global Culture of Sport) 김종완 (Kim Jong Wan) 2 2 월 5 6 (0209) (Mon 5 6 (0209)) 55 / 60
+4 생활과스포츠 U71856201 운동과건강 (Fitness & Health) 양승원 (Yang Seung Won) 2 2 수 5 6 (2201) (Wed 5 6 (2201)) 58 / 60
+5 생활과스포츠 Y21156301 웰빙시대의운동과다이어트 (Exercise and Diet of Well-being Ages) 문달콤 (MOON DAL COM) 2 2 화 3 4 (2214-1) (Tue 3 4 (2214-1)) 49 / 60
+6 생활과스포츠 U76125201 체육(검도) (Physical Education (Kumdo)) 서남철 (SEO, NAM CHEOL) 1 2 수 5 6 (0305) (Wed 5 6 (0305)) 25 / 30
+7 생활과스포츠 U76118401 체육(골프) (Physical Education (Golf)) 노재헌 (Roh, Jae-Hun) 1 2 목 7 8 (2305) (Thu 7 8 (2305)) 26 / 30
+8 생활과스포츠 U76311201 체육(농구) (Physical Education (Basketball)) 이택균 (Lee Taek kyun) 1 2 수 1 2 (2214) (Wed 1 2 (2214)) 27 / 30
+9 생활과스포츠 U51523401 체육(댄스스포츠) (Physical Education (Dance Sports)) 최나영 (Choi, Na Young) 1 2 목 3 4 (6B01-무용실) (Thu 3 4 (6B01-무용실)) 23 / 30
+10 생활과스포츠 U76119401 체육(볼링) (Physical Education (Bowling)) 이해명 (Lee, Hae Myeong) 1 2 목 3 4 (2201) (Thu 3 4 (2201)) 22 / 30
+11 생활과스포츠 U76107401 체육(수영) (Physical Education (Swimming)) 조혜경 (Cho, Hye Kyung) 1 2 화 3 4 (2504) (Tue 3 4 (2504)) 15 / 30
+12 생활과스포츠 U71859301 체육(스킨스쿠버) (Physical Education (Skin Scuba)) 노재헌 (Roh, Jae-Hun) 1 2 화 7 8 (2504) (Tue 7 8 (2504)) 21 / 30
+13 생활과스포츠 U76318201 체육(승마) (Physical Education (Horse Riding)) 강도한 (Kang Do Han) 1 2 화 5 6 (0304) (Tue 5 6 (0304)) 26 / 30
+14 생활과스포츠 U76361201 체육(야구) (Physical Education (Baseball)) 안종후 (An Jong Hoo) 1 2 수 1 2 (0305) (Wed 1 2 (0305)) 23 / 30
+15 생활과스포츠 U51512201 체육(야영생활과리더쉽) (Physical Education (Outdoor Activity and Leadership)) 김태영 (Kim, Tae-Young) 1 2 목 3 4 (2509) (Thu 3 4 (2509)) 28 / 30
+16 생활과스포츠 U51512202 체육(야영생활과리더쉽) (Physical Education (Outdoor Activity and Leadership)) 김태영 (Kim, Tae-Young) 1 2 목 5 6 (2509) (Thu 5 6 (2509)) 29 / 30
+17 생활과스포츠 U51512203 체육(야영생활과리더쉽) (Physical Education (Outdoor Activity and Leadership)) 이상호(체육) (Lee Sang Ho) 1 2 화 5 6 (2301) (Tue 5 6 (2301)) 26 / 30
+18 생활과스포츠 Y21157101 체육(여성호신술) (Female Self Defence) 김나혜 (Kim, Na Hye) 1 2 월 3 4 (6B01-무용실) (Mon 3 4 (6B01-무용실)) 29 / 30
+19 생활과스포츠 U76312301 체육(오리엔티어링) (Orienteering) 양승원 (Yang Seung Won) 1 2 수 7 8 (2512) (Wed 7 8 (2512)) 30 / 30
+20 생활과스포츠 U76106201 체육(요가) (Physical Education (Yogai)) 문달콤 (MOON DAL COM) 1 2 화 5 6 (6B01-무용실) (Tue 5 6 (6B01-무용실)) 27 / 30
+21 생활과스포츠 U71860301 체육(윈드서핑) (Physical Education (Wind Surfing)) 이재문 (Lee, Jae Moon) 1 2 목 7 8 (2512) (Thu 7 8 (2512)) 28 / 30
+22 생활과스포츠 U76321201 체육(축구) (Physical Education (Soccer)) 이상호(체육) (Lee Sang Ho) 1 2 화 3 4 (2301) (Tue 3 4 (2301)) 26 / 30
+23 생활과스포츠 U76117401 체육(탁구) (Physical Education (Table Tennis)) 주남수 (Joo Nam Soo) 1 2 목 3 4 (2511) (Thu 3 4 (2511)) 29 / 30
+24 생활과스포츠 U76124101 체육(태권도) (Physical Education (Taekwondo)) 윤성원 (Yoon Seong Won) 1 2 월 3 4 (0104) (Mon 3 4 (0104)) 27 / 30
+25 생활과스포츠 U71857201 체육(휘트니스) (Physical Education (Fitness)) 원유미 (Won, Yu Mi) 1 2 수 3 4 (6B01-무용실) (Wed 3 4 (6B01-무용실)) 28 / 30
+
+========== 특별실용강좌(글로벌) ==========
+1 특별실용강좌 3 Y21167301 HUFS Pathfinder(실전취업준비전략) 1 (HUFS Pathfinder(Seminar for Career Development) 1) 이승미 (Lee seungmee) 2 2 수 1 2 (0303) (Wed 1 2 (0303)) 49 / 50 3학년 수강
+2 특별실용강좌 3 Y21167302 HUFS Pathfinder(실전취업준비전략) 1 (HUFS Pathfinder(Seminar for Career Development) 1) 윤석주 (Yoon Seokju) 2 2 수 3 4 (0303) (Wed 3 4 (0303)) 47 / 50 3학년 수강
+3 특별실용강좌 3 Y21167303 HUFS Pathfinder(실전취업준비전략) 1 (HUFS Pathfinder(Seminar for Career Development) 1) 이지현 (Lee Ji Hyun) 2 2 수 5 6 (0303) (Wed 5 6 (0303)) 50 / 50 4학년 수강
+4 특별실용강좌 3 Y21167304 HUFS Pathfinder(실전취업준비전략) 1 (HUFS Pathfinder(Seminar for Career Development) 1) 윤석주 (Yoon Seokju) 2 2 수 7 8 (0303) (Wed 7 8 (0303)) 48 / 50 4학년 수강
+5 특별실용강좌 Y91120501 모의창업기획및실습 (Business Startup Simulation) 연규서 (Yeon Kyu Seo) 2 2 화 3 4 (0214) (Tue 3 4 (0214)) 57 / 60
+6 특별실용강좌 U72133101 사회봉사 (Social Service) 남지순 (Nam Jee Sun) 2 2 금 9 10 (2201) (Fri 9 10 (2201)) 40 / 130
+7 특별실용강좌 Y51141101 스타트업전략과실습 (The Start-up's Strategies and the Practical Training) 김승철 (Kim, Seung Chul) 2 2 월 5 6 (5402) (Mon 5 6 (5402)) 55 / 60
+8 특별실용강좌 Y51106101 신재생에너지와자원재활용 (New Renewable Energy and Reuse of Resources) 장유운 (Yu Woon Jang) 2 2 수 3 4 (2214-1) (Wed 3 4 (2214-1)) 51 / 60
+9 특별실용강좌 Y91121501 앙트레프레너십의이해 (Understanding of Entrepreneurship) 김종선 (Kim Chong Sun) 2 2 수 5 6 (0214) (Wed 5 6 (0214)) 58 / 60
+10 특별실용강좌 Y51135101 여학생취업실전전략 (Career Strategy for Female Students) 이지현 (Lee Ji Hyun) 2 2 목 7 8 (0501) (Thu 7 8 (0501)) 60 / 60
+11 특별실용강좌 U76353101 용인학입문 (Introduction to Yong-in Studies) 한동현 (Han, Dong Hyun) 2 2 월 7 8 (4418) (Mon 7 8 (4418)) 35 / 60
+12 특별실용강좌 Y91124101 인터넷비즈니스모델의이해 (Understanding of Internet Business Models) 김선태 (Kim, Sun Tae) 2 2 목 7 8 (0303) (Thu 7 8 (0303)) 58 / 60
+13 특별실용강좌 U61106101 지구온난화와녹색성장 (Global Warming Phenomena and Green Growth) 장유운 (Yu Woon Jang) 2 2 수 7 8 (2214-1) (Wed 7 8 (2214-1)) 54 / 60
+14 특별실용강좌 Y91126101 창업과기술사업화 (Technology Commercialization and Start-up) 손수현 (SON, Soohyun) 2 2 수 7 8 (2315-1) (Wed 7 8 (2315-1)) 19 / 60
+15 특별실용강좌 Y51140101 창업비전과역량개발 (The Start-up's Vision and the Competency Development) 한동현 (Han, Dong Hyun) 2 2 화 5 6 (2502) (Tue 5 6 (2502)) 56 / 60
+16 특별실용강좌 Y91125201 창업실무사례및웹디자인 (Startup Case Study and Web Design) 한광덕 (Kwang Deok, Han) 2 2 월 7 8 (5406) (Mon 7 8 (5406)) 48 / 50
+17 특별실용강좌 Y91137101 특허와스타트업 (PANTENT and STARTUP) 이수찬 (Soo Chan, Lee) 2 2 월 5 6 (0214) (Mon 5 6 (0214)) 60 / 60
+
+========== 디지털교육(글로벌) ==========
+1 디지털교육 U76307201 컴퓨터활용 (Practical Use Computer) 박정윤(CS) (Park Jeong Yun) 2 2 화 7 8 (5406) (Tue 7 8 (5406)) 38 / 40
+2 디지털교육 Y55129201 컴퓨팅사고 (Computational Thinking) 김영란 (Younglan Kim) 2 2 화 5 6 (5405) (Tue 5 6 (5405)) 27 / 40
+
+========== 언어와문학(글로벌) ==========
+1 언어와문학 U76253501 고전그리스어와그리스문명 (Classical Greek and Greek Civilization) 최자영 (Jayoung Che) 2 2 목 3 4 (2516) (Thu 3 4 (2516)) 25 / 60
+2 언어와문학 U76217301 교양한자와한문 (General Chinese Characters and Writing) 최우영 (-) 2 2 금 5 6 (2214-1) (Fri 5 6 (2214-1)) 38 / 40
+3 언어와문학 Y91157101 동양의문학과문화비교 (Comparing Oriental Literature and Culture) 이혁 (Lee Hyouk) 2 2 월 3 4 (0206) (Mon 3 4 (0206)) 29 / 60
+4 언어와문학 U76220501 라틴어와로마문명 (Latin and Roman Civilization) 손윤락 (Sohn Yun-Rak) 2 2 목 3 4 (0416) (Thu 3 4 (0416)) 55 / 60
+5 언어와문학 U72183301 문학과대중 (Literature and Mass) 박은정 (Park Eunjung) 2 2 월 7 8 (2517) (Mon 7 8 (2517)) 50 / 60
+6 언어와문학 U71879201 문학과사회 (Literature and Society) 김정희 (-) 2 2 수 3 4 (2314) (Wed 3 4 (2314)) 56 / 60
+7 언어와문학 U76237301 문학과성 (Literature and Sex) 박수영 (Bak, Su Young) 2 2 수 3 4 (0214) (Wed 3 4 (0214)) 51 / 60
+8 언어와문학 U72136201 문학과신화 (Literature and Myth) 손윤락 (Sohn Yun-Rak) 2 2 목 5 6 (0403) (Thu 5 6 (0403)) 52 / 60
+9 언어와문학 U72139201 문학과영화 (Literature and Cinema) 하명해 (HA Myung Hae) 2 2 수 7 8 (0311) (Wed 7 8 (0311)) 59 / 60
+10 언어와문학 Y21164101 문학을통한치유 (Healing through Literature) 송필환 (Song, Pilhwan) 2 2 화 3 4 (0413) (Tue 3 4 (0413)) 46 / 60
+11 언어와문학 Y51224201 문학이야기 (Literary talk) 송필환 (Song, Pilhwan) 2 2 화 7 8 (0303) (Tue 7 8 (0303)) 54 / 60
+12 언어와문학 U76236201 서양명작의이해와감상 (Understanding Classics in Western Literature) 서주희 (Suh, Ju-Hyee) 2 2 수 7 8 (2408) (Wed 7 8 (2408)) 53 / 60
+13 언어와문학 Y21192101 설득과소통의레토릭 (Rhetoric of Persuasion and Communication) 양현정 (YANG HYUN JUNG) 2 2 월 1 2 (2517) (Mon 1 2 (2517)) 56 / 60
+14 언어와문학 U72266301 세계주요문화와통번역의역할 (Key Global Cultures and the Role of Interpretation & Translation) 최민이 (Choi, Minnie) 3 3 () 1704 / 없음 독통, 이통, 아통 전공인정 / KMOOC에서 수강
+15 언어와문학 U72223301 언어와광고 (Language Advertising) 박진권 (Park Jin Kwon) 2 2 수 5 6 (2214-1) (Wed 5 6 (2214-1)) 55 / 60
+16 언어와문학 U61102101 언어와문화(교양) (Language & Culture) 김경희 (Kyunghee Kim) 2 2 화 1 2 (2506) (Tue 1 2 (2506)) 33 / 60
+17 언어와문학 U71808301 언어와현대미디어사회 (Language and Contemporary Media Society) 동소현 (Dong, So-hyun) 2 2 화 5 6 (2501) (Tue 5 6 (2501)) 50 / 60
+18 언어와문학 Y21101301 언어학과심리실험 (Linguistics and Psychological Experiments) 서지혜 (Suh, Ji Hye) 2 2 화 5 6 (2512) (Tue 5 6 (2512)) 29 / 60
+19 언어와문학 U72247301 에스페란토어의이해 (Introduction to Esperanto) 이영구 (Lee Young Koo) 2 2 화 5 6 (2214) (Tue 5 6 (2214)) 59 / 60
+20 언어와문학 U76002101 위대한개츠비로본문학비평이론 (The Theory of Literary Criticism based on The Great Gatsby) 정중석 (Jung JoongSeck) 2 2 수 3 4 (2506) (Wed 3 4 (2506)) 19 / 60
+21 언어와문학 Y21191101 인간의언어,기호,그리고상징 (Human Language, Sign & Symbol) 동소현 (Dong, So-hyun) 2 2 화 7 8 (2501) (Tue 7 8 (2501)) 46 / 60
+22 언어와문학 U76008101 인문적사유와글쓰기 (Humanistic Thinking and Writing) 김영옥(G) (KIM, Young-Ok) 2 2 화 5 6 (2415) (Tue 5 6 (2415)) 25 / 60
+23 언어와문학 U76003101 인문학의이해-문학,역사,철학 (Understanding Humanities - Literature, History and Philosophy) 김완균(G) (Kim, Wan-Kyun) 2 2 수 5 6 (2314) (Wed 5 6 (2314)) 57 / 60
+24 언어와문학 U78306201 인성을위한 Lectio (TRTL 201) (The Humanity by Lectio) 가정준 (Ka Jungjoon) 2 2 수 7 8 (2214) (Wed 7 8 (2214)) 48 / 50 1학년 수강금지
+25 언어와문학 U71813301 인지감성의스토리텔링:시와광고사례 (Storytelling with Cognitive Emotions: Case Studies in Poetry and Advertise- ments) 박은정 (Eun Jung Park) 2 2 화 5 6 (2414) (Tue 5 6 (2414)) 14 / 60
+26 언어와문학 Y51223101 졸업하기전에읽어야할러시아고전명작 (6 Russian Novels to Read Before You Graduate) 장한 (Jang Han) 2 2 수 7 8 (2314) (Wed 7 8 (2314)) 32 / 60
+27 언어와문학 Y91159101 창의적독서와자기발견 (Creative Reading and Self-discovery) 박지해 (Park Ji-Hai) 2 2 목 1 2 (2413) (Thu 1 2 (2413)) 51 / 60
+28 언어와문학 U76233401 통번역의이론과실제 (Theory and Practice of literary and interoretating Translation) 박지수 (Park Ji-Sue) 2 2 화 1 2 (2502) (Tue 1 2 (2502)) 28 / 60 영어통번역학부 수강금지
+29 언어와문학 Y21107101 한국문학과동아시아 (Korean Literature and East Asia) 박은정 (Park Eunjung) 2 2 수 7 8 (2301) (Wed 7 8 (2301)) 40 / 60
+30 언어와문학 Y21103101 한국어의이해 (Understanding of Korean) 김진후 (Kim, Jinhoo) 2 2 수 7 8 (0517) (Wed 7 8 (0517)) 53 / 60
+31 언어와문학 U76254501 히브리어와유대문화 (Hebrew Language and Jewish Culture) 손영광 (Son Young Kwang) 2 2 화 5 6 (2504) (Tue 5 6 (2504)) 53 / 60
+
+========== 문화와예술(글로벌) ==========
+1 문화와예술 U76216201 공연예술의이해와감상 (Understanding Performing Arts) 조효석 (JO Hyo Suk) 2 2 월 5 6 (2516) (Mon 5 6 (2516)) 42 / 60
+2 문화와예술 U76210301 글로벌음식문화 (Global Food Culture) 김정은 (Kim, Jung-eun) 2 2 수 5 6 (2305) (Wed 5 6 (2305)) 51 / 60
+3 문화와예술 U76209301 글로벌주거문화와건축 (Global Housing Culture and Architecture) 박윤준 (Park Yun Jun) 2 2 수 1 2 (2314) (Wed 1 2 (2314)) 50 / 60
+4 문화와예술 Y91158101 나를찾아떠나는크리에이티브드라마 (A Creative Drama to find me) 김영아 (Kim Young A) 2 2 수 7 8 (2417) (Wed 7 8 (2417)) 25 / 30
+5 문화와예술 U54105301 남유럽문화의이해 (Culture of Southern Europe) 김혜진 (Kim, Hye Jin) 2 2 목 1 2 (2214) (Thu 1 2 (2214)) 58 / 60
+6 문화와예술 Y91149101 다양성과공존의시각으로다시보는발칸-동유럽 (Balkan & Eastern Europe to see again with the view of diversity and coexistence) 이하얀 (Hayann Lee) 2 2 목 1 2 (2513) (Thu 1 2 (2513)) 48 / 60
+7 문화와예술 Y21108101 대중문화예술의이해 (Understanding Popular Culture and Art) 윤상호 (Youn Sang Ho) 2 2 목 1 2 (2506) (Thu 1 2 (2506)) 56 / 60
+8 문화와예술 Y51215301 도시의미학과문화 (Culture and Aesthetics of Cities) 권윤경 (Kwon, Yoonkyung) 2 2 목 5 6 (2313) (Thu 5 6 (2313)) 46 / 60
+9 문화와예술 Y21112101 독일어권문화의이해 (Culture of German-speaking Countries) 제여매 (Je Yeo-Mae) 2 2 월 7 8 (2305) (Mon 7 8 (2305)) 42 / 60
+10 문화와예술 U54107301 동남아시아문화의이해 (Culture of Southeast Asia) 이정윤 (Lee Jeong Yoon) 2 2 금 3 4 (2301) (Fri 3 4 (2301)) 57 / 60
+11 문화와예술 Y21121101 동양미술사입문 (Introduction to Eastern Art History) 권윤희 (Kwon yun hee) 2 2 수 3 4 (2305) (Wed 3 4 (2305)) 35 / 60
+12 문화와예술 Y21109101 동유럽.발칸문화의이해 (Culture of Eastrern Europe & Balkans) 백종필 (Baek Jong Phil) 2 2 목 5 6 (2517) (Thu 5 6 (2517)) 57 / 60
+13 문화와예술 Y21120101 디자인과문화 (Design and Culture) 정미경 (JUNG MEEKYUNG) 2 2 화 1 2 (2314) (Tue 1 2 (2314)) 39 / 40
+14 문화와예술 U71840201 디지털미디어의이해 (Understanding of Digital Media) 김윤환 (Yunhwan Kim) 2 2 수 1 2 (2214-1) (Wed 1 2 (2214-1)) 59 / 60
+15 문화와예술 Y21110101 라틴아메리카문화의이해 (Latin American Culture) 정경원 (Chung, Kyung Won) 2 2 수 7 8 (0214) (Wed 7 8 (0214)) 50 / 60
+16 문화와예술 U71814201 만화와애니메이션의이해 (Understanding Cartoon and Animation) 김세리 (KIM SE RI) 2 2 목 5 6 (2408) (Thu 5 6 (2408)) 54 / 60
+17 문화와예술 U71803201 onClick="javascript:go_syllabus('2019','1','A','U71803201')" --> 문화와국가브랜드 (Culture and National Brand) 김승수 (KIM SEUNGSU) 2 2 화 5 6 (2408) (Tue 5 6 (2408)) 52 / 60
+18 문화와예술 Y21126101 뮤지컬의이해와감상 (Understanding and Apprectiation of Musical) 최정윤 (Choi, Jeong Yoon) 2 2 월 7 8 (0214) (Mon 7 8 (0214)) 59 / 60
+19 문화와예술 U76277201 미디어와현대사회 (Media and Contemporary Society) 정지연 (Jung Ji Youn) 2 2 수 7 8 (2506) (Wed 7 8 (2506)) 50 / 60
+20 문화와예술 Y54118301 북유럽문화의이해 (Culture of Northern Europe) 김기수 (-) 2 2 목 1 2 (2512) (Thu 1 2 (2512)) 56 / 60
+21 문화와예술 Y21123101 서양미술사입문 (Introduction to Western Art History ) 이성옥 (Lee Sung-Ok) 2 2 목 5 6 (2513) (Thu 5 6 (2513)) 55 / 60
+22 문화와예술 U54119301 서유럽문화의이해 (Culture of Western Europe) 문재은 (Moon Jae Eun) 2 2 화 7 8 (2214) (Tue 7 8 (2214)) 50 / 60
+23 문화와예술 U76280201 성.사랑.결혼 (Sexuality, Love and Marriage) 임인혜 (LIM IN HYE) 2 2 수 5 6 (2501) (Wed 5 6 (2501)) 59 / 60
+24 문화와예술 Y21114101 스페인어권문화의이해 (Culture of Spanish-speaking Countries) 전주람 (Jun, Ju Ram) 2 2 화 5 6 (2406) (Tue 5 6 (2406)) 52 / 60
+25 문화와예술 U54120301 아프리카문화의이해 (Culture of Africa) 윤서영 (Yun, Seo-young) 2 2 () 57 / 60 아프리카학부 수강금지
+26 문화와예술 U51540201 연극놀이로몸.마음가꾸기 (Character Building through Play) 이경배 (Kyungbae Lee) 2 2 수 5 6 (2409) (Wed 5 6 (2409)) 28 / 30
+27 문화와예술 U76243201 영화의이해와감상 (Understanding and Appreciation of Film) 김태희 (Kim Taehee) 2 2 목 5 6 (2401) (Thu 5 6 (2401)) 57 / 60
+28 문화와예술 U71824201 예술매체와스토리텔링 (Artistic Media and Storytelling) 임병희 (Rim. Byung-Hee ) 2 2 수 5 6 (2503) (Wed 5 6 (2503)) 40 / 60
+29 문화와예술 Y21127101 예술테라피의이해 (Understanding Art Therapy) 이영미(문화콘텐츠) (LEE YOUNGMI) 2 2 수 5 6 (2417) (Wed 5 6 (2417)) 17 / 60
+30 문화와예술 U76245201 음악의이해와감상 (Understanding and Appreciation of Music) 장미영 (JANG MEE YOUNG) 2 2 수 1 2 (0214) (Wed 1 2 (0214)) 53 / 60
+31 문화와예술 U54129301 중동문화의이해 (Culture of Middle East) 황의현 (Hwang Yuihyun) 2 2 목 5 6 (2506) (Thu 5 6 (2506)) 53 / 60
+32 문화와예술 Y21116101 프랑스어권문화의이해 (Culture of French-speaking Countries) 오영민 (Oh Young Min) 2 2 화 1 2 (2305) (Tue 1 2 (2305)) 49 / 60
+33 문화와예술 Y21128101 한국의문화와예술 (Korean Culture and Art) 문숙희 (Sukhie Moon) 2 2 목 3 4 (2512) (Thu 3 4 (2512)) 52 / 60
+34 문화와예술 Y21129101 한국전통예술의이해 (Understanding Korean Traditional Art) 안현정(HI) (Ahn Hyun-jeong) 2 2 월 5 6 (2502) (Mon 5 6 (2502)) 57 / 60
+
+========== 역사와철학(글로벌) ==========
+1 역사와철학 U76007101 21세기현대문화지형이해 (Understanding Topography of 21st century Contemporary Culture) 김성수 (Kim, Soung-su) 2 2 금 5 6 (2213) (Fri 5 6 (2213)) 55 / 60
+2 역사와철학 Y51216101 기독교사상의이해 (Understanding of Christian Thoughts) 정동영 (Jeong Dong -Yeong) 2 2 월 5 6 (2414) (Mon 5 6 (2414)) 59 / 60
+3 역사와철학 U76256201 논리와비판적사고 (Critical Reasoning) 정재환 (Chung Jaehwan) 2 2 월 3 4 (2517) (Mon 3 4 (2517)) 55 / 60
+4 역사와철학 U37119301 동아시아사의이해 (Introduction to East Asian History) 김동오 (Kim Dongoh) 2 2 금 3 4 (2314) (Fri 3 4 (2314)) 55 / 60
+5 역사와철학 U51112101 동양의지혜 (Wisdoms of the East) 김현경 (Hyunkyung Kim) 2 2 화 5 6 (2412) (Tue 5 6 (2412)) 46 / 60
+6 역사와철학 U71826301 디지털자료로배우는한국사 (Learning of Korean history by disital data) 서상현 (Suh, SangHyun) 2 2 금 5 6 (2314) (Fri 5 6 (2314)) 51 / 60
+7 역사와철학 Y91139101 마음과뇌 (Mind and Brain) 신경순 (Kyung Soon SHIN) 2 2 화 1 2 (2214) (Tue 1 2 (2214)) 56 / 60
+8 역사와철학 Y51217201 미네르바동양고전강독 (Reading Eastern Classics ) 서세영 (Seo se young) 2 2 화 7 8 (2503) (Tue 7 8 (2503)) 40 / 60
+9 역사와철학 Y51230201 미네르바서양고전강독 (Reading Western Classics) 박지용 (Jee Yong Park) 2 2 목 7 8 (2506) (Thu 7 8 (2506)) 33 / 60
+10 역사와철학 Y91153101 붓다의명상법(이론과실제) (Buddha’s Meditation (Theory and Practice)) 이자연(H) (Jayeon Lee) 2 2 수 5 6 (6B01-무용실) (Wed 5 6 (6B01-무용실)) 28 / 30
+11 역사와철학 U76208201 세계사와한국 (The World History and Korea) 이수기 (Lee Su Ki) 2 2 수 7 8 (2401) (Wed 7 8 (2401)) 46 / 60
+12 역사와철학 U51108201 신화와종교 (Religious Thoughts in Myths) 강미라 (KANG, Mi-ra) 2 2 화 3 4 (2314) (Tue 3 4 (2314)) 59 / 60
+13 역사와철학 Y51145101 실크로드와동서문명교류 (Silk-road & East-West Cultural Exchanges) 신규섭 (Shin, Gyu-Seob) 2 2 화 5 6 (0206) (Tue 5 6 (0206)) 25 / 60
+14 역사와철학 U51403101 심리학의이해 (Introduction to Psychology) 김영선(교양) (Kim, young sun) 2 2 목 1 2 (2305) (Thu 1 2 (2305)) 55 / 60
+15 역사와철학 Y91156101 요가경전강독 (Text Reading of the Yogas?tra) 이자연(H) (Jayeon Lee) 2 2 목 5 6 (2512) (Thu 5 6 (2512)) 22 / 60
+16 역사와철학 Y51220101 용서에대하여 (On Forgiveness) 김석수 (Kim Suk Soo) 2 2 수 5 6 (2213) (Wed 5 6 (2213)) 59 / 60
+17 역사와철학 Y91155101 인공지능시대의인문학 (Humanities in the Age of Artificial Intelligence) 김석수 (Kim Suk Soo) 2 2 월 5 6 (2213) (Mon 5 6 (2213)) 60 / 60
+18 역사와철학 Y21153101 인권과인간존엄성 (Human Rights and Dignity) 정성관 (JEONG, Seongkwan) 2 2 화 5 6 (2413) (Tue 5 6 (2413)) 47 / 60
+19 역사와철학 Y91132201 지성을위한 Lectio (TRTL 101) (The Intelligence by Lectio) 가정준 (Ka Jungjoon) 2 2 수 5 6 (2214) (Wed 5 6 (2214)) 43 / 50
+20 역사와철학 E03109101 한국근.현대사 (History of Modern & Contemporary Korea) 주미희 (JOO MIHEE) 2 2 월 5 6 (2504) (Mon 5 6 (2504)) 52 / 60
+21 역사와철학 Y21147101 한국사와동아시아(교양) (Korean History in the East Asia) 구도영 (KOO DO-YOUNG) 2 2 화 3 4 (2502) (Tue 3 4 (2502)) 52 / 60
+22 역사와철학 E04302301 한국생활문화사 (History of Korean Life Style & Culture) 이용석 (Lee Young-Seok) 2 2 수 5 6 (2514) (Wed 5 6 (2514)) 54 / 60
+23 역사와철학 Y51116201 한국여성사 (Korea Women's History) 이숙화 (Lee Sook hwa) 2 2 월 7 8 (2512) (Mon 7 8 (2512)) 50 / 60
+24 역사와철학 U76213301 한국의세계문화유산 (The World Cultural Heritage in Korea) 조석연 (Cho, Seok-Yeon) 2 2 목 3 4 (2514) (Thu 3 4 (2514)) 60 / 60
+25 역사와철학 U76213302 한국의세계문화유산 (The World Cultural Heritage in Korea) 조석연 (Cho, Seok-Yeon) 2 2 목 5 6 (2514) (Thu 5 6 (2514)) 59 / 60
+26 역사와철학 U72189201 현대사회와기록관리 (Archives Management in Contempory Society ) 이정연 (-) 2 2 월 7 8 (4419) (Mon 7 8 (4419)) 53 / 60
+27 역사와철학 U76004101 현대성의근본문제들 (The Archetypical Problems of Modernity) 이준 (Lee Joon) 2 2 금 3 4 (2201) (Fri 3 4 (2201)) 24 / 60
+
+========== 국가와사회(글로벌) ==========
+1 국가와사회 U71837201 21세기마케팅의이해 (Understanding of 21st Century Marketing) 남기매 (Nam, kimae) 2 2 월 7 8 (4411) (Mon 7 8 (4411)) 52 / 60
+2 국가와사회 Y21132101 가족생활과법 (Family Life and Law) 이동건 (LEE DONG GUN) 2 2 화 1 2 (2504) (Tue 1 2 (2504)) 56 / 60
+3 국가와사회 U76269201 광고.PR의이해 (The Understanding Advertising & PR) 최지윤 (Choi, Ji Yoon) 2 2 금 5 6 (2408) (Fri 5 6 (2408)) 50 / 60
+4 국가와사회 Y51226101 국가와사회: 민주주의의이해 (State and society: Models of Democracy) 김옥현 (-) 2 2 목 7 8 (0604) (Thu 7 8 (0604)) 52 / 60
+5 국가와사회 U74111101 국제관계의이해 (Introduction to International Relation) 박성황 (Park, Seong Hwang) 2 2 목 1 2 (2301) (Thu 1 2 (2301)) 52 / 60
+6 국가와사회 U76270201 국제사회와국제기구 (International Society and International Organization) 설규상 (Seol, Gyoosang) 2 2 금 3 4 (2214-1) (Fri 3 4 (2214-1)) 53 / 60
+7 국가와사회 Y21134101 금융생활과법 (Finance life and Law) 신상우 (Shin Sangwoo) 2 2 목 5 6 (2214) (Thu 5 6 (2214)) 57 / 60
+8 국가와사회 U76273201 기업회계의기초원리 (Basics of Accounting) 김문현 (Kym, Moon Hyun) 2 2 화 7 8 (0515) (Tue 7 8 (0515)) 59 / 60
+9 국가와사회 Y91141101 동서양문화와소비심리 (Eastern vs Western Culture and Consumer Psychology) 이재진 (Lee Jae Jin) 2 2 월 3 4 (2512) (Mon 3 4 (2512)) 57 / 60
+10 국가와사회 Y91146101 미디어와인류문명 (Media and Human Civilization) 박정훈 (PARK CHUNG HOON) 2 2 월 1 2 (2408) (Mon 1 2 (2408)) 52 / 60
+11 국가와사회 U74110101 민법의이해 (Understanding Civil Law) 심우영 (Shim Woo-young) 2 2 금 3 4 (2213) (Fri 3 4 (2213)) 56 / 60
+12 국가와사회 U76278201 방송.영상의이해 (Understanding Television & Visual Culture) 박태희 (Park Tae Hee) 2 2 수 7 8 (2201) (Wed 7 8 (2201)) 58 / 60
+13 국가와사회 Y21138301 범죄와수사 (Criminal and Criminal Investication) 김현수 (KIM Hyeonsoo) 2 2 목 3 4 (2214-1) (Thu 3 4 (2214-1)) 55 / 60
+14 국가와사회 Y91143101 법과역사로의산책 (Long walks in the history with the law) 김용철 (Kim Yong Chul) 2 2 수 7 8 (2503) (Wed 7 8 (2503)) 50 / 60
+15 국가와사회 Y91144101 법으로풀어가는정치 (Solving political by law) 김석수 (Kim Suk Soo) 2 2 목 5 6 (2213) (Thu 5 6 (2213)) 60 / 60
+16 국가와사회 U04208201 북한의정치와사회 (North Korean Politics & Society) 강태규 (Tae Kyoo, Kang) 2 2 월 5 6 (2214-1) (Mon 5 6 (2214-1)) 46 / 60
+17 국가와사회 U76279201 비즈니스협상 (Basics of Business Negotiation) 박상준 (Park, Sang Joon) 2 2 수 5 6 (4403) (Wed 5 6 (4403)) 50 / 60
+18 국가와사회 Y21133101 상인과법 (Merchant and Law) 이준표 (Lee Joon pyo) 2 2 월 1 2 (2214) (Mon 1 2 (2214)) 54 / 60
+19 국가와사회 U76009101 실용금융 (Practical Finance) 최윤곤 (CHOI YOON KON) 2 2 화 5 6 (2314) (Tue 5 6 (2314)) 56 / 60
+20 국가와사회 U76283201 여성과사회 (Women and Society) 황진화 (HWANG, JIN HWA) 2 2 월 5 6 (0604) (Mon 5 6 (0604)) 57 / 60
+21 국가와사회 U72202201 영화속에서본정치 (Politics in the Movie) 우준희 (Woo junhee) 2 2 월 3 4 (0214) (Mon 3 4 (0214)) 58 / 60
+22 국가와사회 Y91147101 위기관리와국가정보 (Crisis management and National intelligence) 이창주 (Lee Chang joo) 2 2 화 7 8 (0209) (Tue 7 8 (0209)) 56 / 60
+23 국가와사회 U51509101 육아와아동심리 (Childcare and Child Psychology) 이정현 (Lee, Jeong Hyeon) 2 2 수 3 4 (2214) (Wed 3 4 (2214)) 60 / 60
+24 국가와사회 Y91145101 인도의전통과현대사회 (Tradition and Contemporary Society of India) 박금표 (Park Kyum Pyo) 2 2 목 5 6 (2414) (Thu 5 6 (2414)) 52 / 60
+25 국가와사회 U76288201 증권시장의이해 (Basics of Financial Market) 나찬휘 (Nah, Chan Hui) 2 2 월 5 6 (2408) (Mon 5 6 (2408)) 57 / 60
+26 국가와사회 U76345201 한국사회의이해 (Introduction to Korean Society) 황진화 (HWANG, JIN HWA) 2 2 월 3 4 (0604) (Mon 3 4 (0604)) 55 / 60
+27 국가와사회 C02205501 한국정부의이해 (Understanding Korean Government) 이아람 (Lee A Ram) 2 2 목 5 6 (2214-1) (Thu 5 6 (2214-1)) 57 / 60
+28 국가와사회 U71833301 헌법과인권 (Constitutional Law and Human Rights) 김기태 (KIM KI TAE) 2 2 수 3 4 (0209) (Wed 3 4 (0209)) 58 / 60
+29 국가와사회 U74119201 현대경제의기초원리 (Fundamental Principles of Contemporary Economics) 김종원 (Kim Jong Won) 2 2 목 7 8 (4411) (Thu 7 8 (4411)) 52 / 60
+30 국가와사회 Y74127101 현대사회와가족 (Contemporary Society & Family) 김에스라 (Kim Ezra) 2 2 목 1 2 (2314) (Thu 1 2 (2314)) 60 / 60
+31 국가와사회 Y21185101 현대사회와보험 (Modern Society and Insurance) 임채욱 (Che Oug Rim) 2 2 월 5 6 (2503) (Mon 5 6 (2503)) 60 / 60
+32 국가와사회 Y91142101 현대사회의이해 (Understanding of Modern Society) 최종숙 (Choi, Jongsook) 2 2 화 7 8 (0214) (Tue 7 8 (0214)) 54 / 60
+33 국가와사회 Y21137101 형법의이해 (Understanding Criminal Law) 김현수 (KIM Hyeonsoo) 2 2 수 5 6 (2401) (Wed 5 6 (2401)) 59 / 60
+
+========== 과학과기술(글로벌) ==========
+1 과학과기술 U71850201 21세기항공우주과학기술 (21st Century Aerospace Science and Technology) 정영진 (Jeong , Young Jin) 2 2 수 5 6 (2502) (Wed 5 6 (2502)) 57 / 60
+2 과학과기술 Y91140101 4차산업혁명과융합시대의이해 (Understanding of the 4th Industrial Revolution & the Fusion Era) 정영진 (Jeong , Young Jin) 2 2 수 7 8 (2502) (Wed 7 8 (2502)) 41 / 60
+3 과학과기술 U72149201 PC하드웨어 (PC Hardware) 이민나 (Lee Minna) 2 2 목 3 4 (5406) (Thu 3 4 (5406)) 38 / 40
+4 과학과기술 U51103201 과학사 (History of Science) 정영진 (Jeong , Young Jin) 2 2 화 5 6 (2401) (Tue 5 6 (2401)) 51 / 60
+5 과학과기술 Y51144101 기초대학수학 (Elementary Mathematics) 정미연 (Jung Miyoun) 2 2 () 94 / 100 자연대 수강금지
+6 과학과기술 Y55103101 기초미적분학1 (Elementary Calculus 1) 송현정 (Hyunjung Song) 2 2 금 1 2 (0604) (Fri 1 2 (0604)) 85 / 90 전자물리학과 수강금지
+7 과학과기술 Y55103102 기초미적분학1 (Elementary Calculus 1) 송현정 (Hyunjung Song) 2 2 금 3 4 (0604) (Fri 3 4 (0604)) 88 / 90 전자물리학과 수강금지
+8 과학과기술 Y55103103 기초미적분학1 (Elementary Calculus 1) 최양선 (Choi Yang Sun) 2 2 목 7 8 (0214) (Thu 7 8 (0214)) 73 / 80 전자물리학과 수강금지
+9 과학과기술 Y51105101 나노바이오화학 (Nano-Biochemistry) 정지호 (Ji-Ho Jeong) 2 2 목 7 8 (2201) (Thu 7 8 (2201)) 58 / 60 화학과 수강금지
+10 과학과기술 U76296201 멀티미디어제작(교양) (Multimedia Production (General)) 한광덕 (Kwang Deok, Han) 2 2 월 5 6 (5406) (Mon 5 6 (5406)) 38 / 40
+11 과학과기술 U51425201 빛과물질 (Light & Matter) 유명숙 (myoungsuk Yoo) 2 2 월 7 8 (0303) (Mon 7 8 (0303)) 36 / 60 전자물리학과 수강금지
+12 과학과기술 U76298201 사회과학을위한수학 (Mathematics for Social Science) 송현정 (Hyunjung Song) 2 2 화 1 2 (0303) (Tue 1 2 (0303)) 43 / 60
+13 과학과기술 Y61614101 생명과화학 (Chemistry & the Living Thing) 박진균 (Park, Jin Kuen) 2 2 () 88 / 90 화학과 수강금지
+14 과학과기술 U51521101 생명의이해 (Principles of Lifesciences) 박중찬 (Park Jungchan) 2 2 화 5 6 (0214) (Tue 5 6 (0214)) 58 / 60 생명공학과 수강금지
+15 과학과기술 Y75123101 생물의출현과진화 (The Origin & Evolution of Life) 김하늘 (Haneul Kim) 2 2 목 3 4 (0310) (Thu 3 4 (0310)) 32 / 60 생명공학과 수강금지
+16 과학과기술 U51416101 생활과화학 (Chemistry in Daily Life) 정지호 (Ji-Ho Jeong) 2 2 목 5 6 (2201) (Thu 5 6 (2201)) 58 / 60 화학과 수강금지
+17 과학과기술 U55106201 선형대수학 (Linear Algebra) 신동화 (Dong Hwa Shin) 2 2 () 99 / 110
+18 과학과기술 U51419101 수의세계 (Introduction to Calculus) 박성호 (Sung-ho Park) 2 2 () 89 / 100 수학과 수강금지
+19 과학과기술 U51417101 우주와인간 (The Universe & Man) 정영진 (Jeong , Young Jin) 2 2 화 7 8 (2401) (Tue 7 8 (2401)) 40 / 60
+20 과학과기술 U76304201 인간과생태계 (Human and Ecosystem) 홍진경 (Hong Jin Kyung) 2 2 월 5 6 (0303) (Mon 5 6 (0303)) 60 / 60 환경학과 수강금지
+21 과학과기술 U75001101 일반물리1 (General Physics 1) 정창욱 (Chang Uk Jung) 2 2 월 3 4 (2301) (Mon 3 4 (2301)) 56 / 60
+22 과학과기술 U75001102 일반물리1 (General Physics 1) 정창욱 (Chang Uk Jung) 2 2 월 1 2 (2301) (Mon 1 2 (2301)) 25 / 60
+23 과학과기술 U51209201 자연과학개론 (Introduction to Natural Sciences) 정희경 (Chung Heekyung) 2 2 화 5 6 (5206) (Tue 5 6 (5206)) 59 / 60
+24 과학과기술 Y75131101 정보통신과사회 (Information Communications & Society) 김희동 (Kim, Hee Dong) 2 2 목 3 4 (5213) (Thu 3 4 (5213)) 38 / 60
+25 과학과기술 U76139101 지구과학의이해 (Understanding of Earth Science) 최인준 (Injune Choi) 2 2 화 5 6 (0209) (Tue 5 6 (0209)) 37 / 60
+26 과학과기술 Y55128101 해양과기후 (Ocean and Weather) 정희경 (Chung Heekyung) 2 2 화 3 4 (5206) (Tue 3 4 (5206)) 58 / 60
+27 과학과기술 U75109101 환경과삶 (Life in Environmental Systems) Eun Hea Jho 2 2 금 1 2 (0402) (Fri 1 2 (0402)) 50 / 60 환경학과 수강금지
+
+========== 핵심인문기초(글로벌) ==========
+1 핵심인문기초 U53114201 근대유럽의사상과현대사 (Modern European Thoughts & Contemporary History) 박상준 (Park Sangjun) 2 2 화 3 4 (2517) (Tue 3 4 (2517)) 56 / 60
+2 핵심인문기초 Y51101201 논리학입문 (Introduction to Logic) 정재환 (Chung Jaehwan) 2 2 수 5 6 (2506) (Wed 5 6 (2506)) 56 / 60
+3 핵심인문기초 U74131101 동물복지의인문학 (Humanities of Animal Welfare) 이선필 (SON PHIL LEE) 2 2 목 1 2 (2214-1) (Thu 1 2 (2214-1)) 53 / 60
+4 핵심인문기초 Y21150101 동서문명교류사 (History of the Culture Exchange Between the East and West) 정일교 (JEONG ILGYO) 2 2 화 3 4 (2503) (Tue 3 4 (2503)) 58 / 60
+5 핵심인문기초 U51501101 동아시아근현대사 (Modern and Contemporary History of East Asia) 김기효 (Kim, Ki Hyo) 2 2 화 5 6 (2213) (Tue 5 6 (2213)) 45 / 60
+6 핵심인문기초 U71821201 문학과정신분석 (Literature and Psychoanalysis) 이인훈 (Lee In Hoon) 2 2 목 3 4 (2401) (Thu 3 4 (2401)) 59 / 60
+7 핵심인문기초 Y91161101 문화번역의이해 (Understanding Cultural Translation) 남윤지 (NAM Yun-Ji) 2 2 목 7 8 (2313) (Thu 7 8 (2313)) 48 / 60
+8 핵심인문기초 U76257201 미학의이해 (Introduction to Aesthetics) 신현주 (Hyun Joo Shin) 2 2 화 1 2 (2503) (Tue 1 2 (2503)) 56 / 60
+9 핵심인문기초 U76258301 불교철학의이해 (Introduction to Buddhist Philosophy) 이혜영 (Lee HyeYoung) 2 2 목 7 8 (2314) (Thu 7 8 (2314)) 56 / 60
+10 핵심인문기초 Y91151101 서양문학과르네상스정신 (Renaissance spirit in western literature) 서정일 (Seo jung Il) 2 2 금 3 4 (2214) (Fri 3 4 (2214)) 60 / 60
+11 핵심인문기초 U76259201 서양사의이해 (Understanding of Western History) 이규철 (LEE GYUCHEOL) 2 2 월 3 4 (0303) (Mon 3 4 (0303)) 57 / 60
+12 핵심인문기초 Y21106301 시학과기호학 (Poetics & Semiotics) 홍정표 (Hong Jung-Pyo) 2 2 목 3 4 (2314) (Thu 3 4 (2314)) 59 / 60
+13 핵심인문기초 U76241201 언어학의이해 (Introduction to Linguistics) 노창화 (Roh chang-hwa) 2 2 월 5 6 (2201) (Mon 5 6 (2201)) 56 / 60
+14 핵심인문기초 Y21142101 역사란무엇인가 (Introduction to History ) 이애숙 (Lee Aesook) 2 2 목 3 4 (2513) (Thu 3 4 (2513)) 48 / 60
+15 핵심인문기초 U71828201 종교철학입문 (Introduction to Philosophy of Religion) 김상연 (Kim Sangyeon) 2 2 화 7 8 (2513) (Tue 7 8 (2513)) 58 / 60
+16 핵심인문기초 U76265401 철학으로의초대 (Invitation to Philosophy) 경혜영 (KYUNG HYE YOUNG) 2 2 금 5 6 (2502) (Fri 5 6 (2502)) 55 / 60
+17 핵심인문기초 U76267201 한국사의이해 (Understanding of History of Korea) 정동민 (Jung Dong-Min) 2 2 월 3 4 (2503) (Mon 3 4 (2503)) 57 / 60
+18 핵심인문기초 U51503201 현대사회와철학 (Philosophy and Society) 이준 (Lee Joon) 2 2 금 5 6 (2201) (Fri 5 6 (2201)) 56 / 60
+19 핵심인문기초 U04202301 현대사회의윤리문제 (Contemporary Moral Issues) 김영걸 (Kim, Young Geol) 2 2 월 5 6 (2512) (Mon 5 6 (2512)) 57 / 60
+
+========== 인성교육(글로벌) ==========
+1 인성교육 U76001101 4차산업혁명과인성 (4th Revolutionary era and Character-trait) 김병재 (Byoungjae Kim) 2 2 수 7 8 (2414) (Wed 7 8 (2414)) 52 / 60
+2 인성교육 Y51219101 미네르바인성교육 (Minerva Personality Education) 박남용 (PARK NAM YONG) 2 2 화 7 8 (2406) (Tue 7 8 (2406)) 30 / 30 P/F 평가
+3 인성교육 Y21170201 전통심신수련 (Sound Mind through Traditional Body Training) 이덕환 (Lee, Deok Hwan) 2 2 월 7 8 (6B01-무용실) (Mon 7 8 (6B01-무용실)) 27 / 30
+4 인성교육 U51519101 현대인의정신건강 (Contemporary Mental Hygiene) 이혜선 (-) 2 2 화 5 6 (2503) (Tue 5 6 (2503)) 32 / 60
+
+========== 군사학(글로벌) ==========
+1 군사학 3 U07301601 안보학 (Security) 주세종 (Ju, Se Jong) 2 6 월 1 2 (0207) 수 1 2 (2409) 토 3 4 (0214) (Mon 1 2 (0207) Wed 1 2 (2409) Sat 3 4 (0214)) 13 / 없음 학군단 전용강좌
+2 군사학 4 U07302601 조직리더십 (Organizing Leadership) 주세종 (Ju, Se Jong) 2 6 화 1 2 (2401) 목 1 2 (2201) 토 1 2 (0214) (Tue 1 2 (2401) Thu 1 2 (2201) Sat 1 2 (0214)) 9 / 없음 학군단 전용강좌
+
+536 liberal lectures has been parsed successfully.
